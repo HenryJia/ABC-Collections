@@ -12,20 +12,23 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 ############################
 
 # Name of website
-title: Warwick Folk 
+title: Henry's ABC Collection
 
 # Your name to show in the footer
-author: Thomas Broadbent
+author: Henry Jia
+
+# Description of the website for SEO purposes
+description: "A personal collection of sheet music and musical compositions"
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  Events: "https://www.instagram.com/warwickfolksociety"
-  Exec: "exec"
-  Blog: "blog"
-  Contact: "https://www.instagram.com/warwickfolksociety"
+  Home: "/"
+  "Sheet Music": "/sheet-music"
+  "Collections": "/collections"
+  "About": "/about"
 
 ################
 # --- Logo --- #
@@ -33,7 +36,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/FolkLogo-V15-1000.png"
+#avatar: "/assets/img/profile.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -50,23 +53,23 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "su165b@warwicksu.com"
+#  email: "henry@example.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: WarwickFolk/
-  github: warwickfolk
-#  twitter: daattali
-#  patreon: DeanAttali
-  youtube: user/warwickfolk
+#  facebook: yourname
+#  github: yourname
+#  twitter: yourname
+#  patreon: yourname
+#  youtube: yourname
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-  instagram: warwickfolksociety
+#  snapchat: yourname
+#  instagram: yourname
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -80,7 +83,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: A collection of sheet music and musical compositions
 
 ###########################
 # --- General options --- #
@@ -95,7 +98,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "warwickfolk.github.io"
+url-pretty: "henry-music.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -118,7 +121,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "sheet,music,compositions,abc,notation,music,notation,folk,traditional"
 
 ######################################
 # --- Colours / background image --- #
@@ -248,7 +251,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "London/UK"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
