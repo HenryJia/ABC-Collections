@@ -1,43 +1,32 @@
 ---
 layout: home
-title: Warwick Folk
-subtitle: Warwick University's Folk Society
+title: Henry's Music Collection
+subtitle: A Personal Collection of Music from Friends and Travels
 ---
 
 
-#### Who are we?
+#### About This Collection
 
-Warwick Folk Society is a very relaxed music group for musicians of any age, ability, or instrument.
+Welcome to my personal collection of music gathered from my travels and encounters wit friends. This site showcases the diverse musical traditions I've encountered during my time, focusing mainly on folk, traditional, and music that has become "core" to the communities I've visited or have been a part of. I'm also a fan of modern cinematic music, and you may find some transcriptions of that here as well.
 
-We play different styles of folk from across the world, usually from the British Isles, and run various dances, ceilidhs and gigs throughout the year. 
-Our style of playing tends to focus more on the enthusiasm than keeping to the dots. 
+There will be no recordings of music here. I'll only be providing the barebones of the music in ABC format. I think the rest will be up to the reader to interpret and adapt. I don't think music should be a static thing, and I think that the best way to preserve music is to let it evolve and change with the people who play it. Culture is a living thing. It's not a museum piece.
 
-![Warwick Uni Folk Session](/assets/img/folk-session.jpg)
+This site was forked from, and was originally the Warwick University Folk Group's band folder. I was band leader for the folk group briefly in 2025.
 
-#### What we do
 
-We meet every Tuesday during term time for a session, around 7pm in the National Grid Room in the Arts Centre. Whether you're a complete beginner, a seasoned folk-player, or just fancy listening to some folk in a relaxed enviroment, we would love to see you!
+#### What You'll Find Here
 
-Throughout the term we also run many events from ceilidh dancing nights to campfire sing abouts! Check out the events page to find more!
+This collection features traditional and contemporary music from various regions I've visited, including:
 
-![Ceilidh Dancing](/assets/img/ceilidhdance.jpg)
+- Traditional folk songs from different cultures
+- Modern cinematic transcriptions and arrangements
+- Personal reflections and stories about each musical tradition
 
-#### What we play
+I hope you'll find these interesting. I got kicked off the thesession.org for posting too many foreign tunes. So here's my own little corner of the internet to share them with anyone who wants to see them. I think I disagree with thesession's approach to folk. Cultures mix and draw from each other. Besides, there's a reason why it's a common joke that all Irish folk sounds the same.
 
-Warwick Folk plays a whole host of different styles of folk, new and old. We intend to be a welcoming enviroment for all those interested in learning Folk for the first time. 
-The society has an everchanging *bandfolder* which houses many of our favourite tunes. You can download the latest 2020 band folder below.
+#### About Me
 
-- [Warwick Band Folder (treble clef)](/assets/pdf/FolkBandFolder2020.pdf)
-- [Warwick Band Folder (bass clef)](/assets/pdf/FolkBandFolder2020Bass.pdf)
-- [Warwick Band Folder (Bb)](/assets/pdf/FolkBandFolder2020-Bb.pdf)
-- [Warwick Band Folder (D)](/assets/pdf/FolkBandFolder2020-D.pdf)
-
-#### See also
-
-- [Warwick Folk Soundcloud](https://soundcloud.com/warwick-folk)
-
-You can contribute to the Band Folder by going to the [Band Folder repository](https://github.com/WarwickFolk/band-folder). 
-You will also find our ceilidh sets and some other tunes there, as well as guidance and instructions as how to use abc (a common folk music notation system).
+I'm Henry, primarily a machine learning engineer, but also a musician and flutemaker.
 
 
 
