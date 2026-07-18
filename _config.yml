@@ -26,9 +26,7 @@ description: "A personal collection of sheet music and musical compositions"
 
 navbar-links:
   Home: "/"
-  "Sheet Music": "/sheet-music"
   "Collections": "/collections"
-  "About": "/about"
 
 ################
 # --- Logo --- #

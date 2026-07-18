@@ -12,7 +12,24 @@ If you are new to ABC notation, you can find a basic guide here: [ABC Notation G
 
 To view or play the music, you will need an ABC notation reader or software. Many online tools and dedicated programs can interpret these files.
 
-I'll probably eventually put together a CI pipeline for automatically assembling them into PDFs
+## CI Pipeline
+
+This repository includes a GitHub Actions workflow that automatically builds ABC files into PDFs. The PDFs are stored in the `assets/pdf/` directory and are updated on every push to the main branch.
+
+For more information about the workflow, see [docs/abc-to-pdf-workflow.md](docs/abc-to-pdf-workflow.md).
+
+## Manual Conversion
+
+If you need to manually convert ABC files:
+
+```bash
+# Install required tools
+sudo apt-get install lilypond
+
+# Convert a single file
+abc2ly input_file.abc > output_file.ly
+lilypond output_file.ly
+```
 
 ## Contents
 

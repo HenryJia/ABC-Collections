@@ -1,0 +1,73 @@
+name: Build ABC to PDF
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Install ABC tools
+      run: |
+        sudo apt-get update
+        # Install ABC tools for conversion
+        sudo apt-get install -y lilypond texlive-latex-base texlive-latex-recommended texlive-fonts-recommended
+        
+    - name: Convert ABC files to PDF
+      run: |
+        mkdir -p assets/pdf
+        echo "Starting ABC to PDF conversion..."
+        
+        # Count total ABC files
+        total_files=$(find assets/abc -name "*.abc" | wc -l)
+        echo "Found $total_files ABC files to process"
+        
+        # Convert each ABC file to PDF using LilyPond
+        for abc_file in assets/abc/*.abc; do
+          if [ -f "$abc_file" ]; then
+            echo "Processing $abc_file..."
+            # Get the base name without extension
+            base_name=$(basename "$abc_file" .abc)
+            echo "Base name: $base_name"
+            
+            # Convert ABC to LilyPond format
+            if abc2ly "$abc_file" > "${base_name}.ly"; then
+              echo "Successfully converted $abc_file to LilyPond format"
+              
+              # Generate PDF with LilyPond
+              if lilypond "${base_name}.ly"; then
+                echo "Successfully generated PDF for $abc_file"
+                
+                # Move generated PDF to assets/pdf directory if it exists
+                if [ -f "${base_name}.pdf" ]; then
+                  mv "${base_name}.pdf" assets/pdf/
+                  echo "Moved PDF to assets/pdf/"
+                else
+                  echo "No PDF was generated for $abc_file"
+                fi
+              else
+                echo "Error: Failed to generate PDF with LilyPond for $abc_file"
+              fi
+            else
+              echo "Error: Failed to convert $abc_file to LilyPond format"
+            fi
+          fi
+        done
+        
+        echo "ABC to PDF conversion complete"
+        
+    - name: Commit and push changes
+      if: success()
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add assets/pdf/
+        git commit -m "Build PDFs from ABC files" || echo "No changes to commit"
+        git push origin main || echo "No changes to push"
