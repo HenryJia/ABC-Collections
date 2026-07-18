@@ -127,7 +127,7 @@ K:G
 "G"D3/2 D/2 D E | G A B2 | "Am" A G E G | "G"B A "D"B/2 d3/2 | 
 "G"D3/2 D/2 D E | G A B2 | "Am" A G E C | "D"D2 D2 :|
 |: "G"d3/2 d/2 d e | d c B2 | "Am"A G E G | "G"B A "D"B/2 d3/2 | 
-"G"d3/2 d/2 d e | d c B2 | "Am" A G E C | "D"D2 D2 :|]
+"G"d3/2 d/2 d e | d c B2 | "Am" A G E C | "D"D2 D2 :|
 
 X:5
 T:Angeline the Baker
@@ -158,9 +158,9 @@ M:4/4
 L:1/8
 K:D
 FG | "D"AFDF AFDF | A2 d2 d2 cB | AFDF AFDF | "A7"G2 E2 E2 FG | 
-"D"AFDF AFDF | A2 d2 d2 (3efg | fafd "A7"egec | "D" d2 d2 d2 :|]
-[|: de | "D"f2 fd fagf | "A7"e2 ec egfe | "D"f2 fd fagf | "A7"edcB A2 de | 
-"D"f2 fd fagf | "A7"e2 ec egfe | "D"fafd "A7"egec | "D" d2 d2 d2 :|]
+"D"AFDF AFDF | A2 d2 d2 (3efg | fafd "A7"egec | "D" d2 d2 d2 :|
+|: de | "D"f2 fd fagf | "A7"e2 ec egfe | "D"f2 fd fagf | "A7"edcB A2 de | 
+"D"f2 fd fagf | "A7"e2 ec egfe | "D"fafd "A7"egec | "D" d2 d2 d2 :|
 
 X:8
 %%titlespace -20
@@ -170,9 +170,9 @@ M:4/4
 L:1/8
 K:D
 (3ABc | "D"d2 AG FDFA | "G"BGBd "A"cAce | "D"f2 fd gfed | "A"c2 e2 e2 A2 |
-"D"d2 AG FDFA | "G"BGBd "A"cAce | "D"f2 fd "G"gfed | "D"A2 d2 d2 :|]
-[|: A2 | "D"dfaf dfaf | "Em"gfef g2 ef | "A7"gfed cdeg | "D"fefg f2 f2 | 
-"Bm"dfaf dfaf | "Em"gfef g2 ef | "A7"gfed cdeg | "D"f2 d2 d2 :|]
+"D"d2 AG FDFA | "G"BGBd "A"cAce | "D"f2 fd "G"gfed | "D"A2 d2 d2 :|
+|: A2 | "D"dfaf dfaf | "Em"gfef g2 ef | "A7"gfed cdeg | "D"fefg f2 f2 | 
+"Bm"dfaf dfaf | "Em"gfef g2 ef | "A7"gfed cdeg | "D"f2 d2 d2 :|
 
 X:9
 %%titlespace -20
@@ -182,9 +182,9 @@ M:4/4
 L:1/8
 K:G
 BA | "G"G2 DB, G,B,DB, | "C"G,CEC "G"G,B,DB, | G2 AB "Am"cBAG | "D"F2 A2 AcBA | 
-"G"G2 DB, G,B,DB, | "C"G,CEC "G"G,B,DB, | "G"G2 AB "D"cBAG | "G"A2 G2 G2 :|]
-[|: Bd | "G"gfed B2 GB | "Am"cBAG "D"F2 D2 | "C"ECEG cBAG | "D"F2 D2 D3 D | 
-"C"ECEG cBAG | "D"FDFA dcBA | "G"Ggfg "D"ecAF | "G"A2 G2 G2 :|]
+"G"G2 DB, G,B,DB, | "C"G,CEC "G"G,B,DB, | "G"G2 AB "D"cBAG | "G"A2 G2 G2 :|
+|: Bd | "G"gfed B2 GB | "Am"cBAG "D"F2 D2 | "C"ECEG cBAG | "D"F2 D2 D3 D | 
+"C"ECEG cBAG | "D"FDFA dcBA | "G"Ggfg "D"ecAF | "G"A2 G2 G2 :|
 
 %%newpage
 %%scale 0.8
@@ -204,9 +204,9 @@ M:4/4
 L:1/8
 K:D
 B2 | "D"A2 FA- ADFA | "G"B2 GB- BDGB | "D"A2 FA- ADFA | "A7"EFGA GFED | 
-"D"A2 FA- ADFA | "G"B2 GB- BDGB | "A7"ABcd efge | "D"f2 d2 d2 :|]
-[|: de | "D"f2 df- ffdf | "A7"geaf gfed | "D"f2 df- fAdf | "A"e2 ce- eAce | 
-"D"f2 df- ffdf | "A7"geaf gfed | "A7"ABcd efge | "D"f2 d2 d2 :|]
+"D"A2 FA- ADFA | "G"B2 GB- BDGB | "A7"ABcd efge | "D"f2 d2 d2 :|
+|: de | "D"f2 df- ffdf | "A7"geaf gfed | "D"f2 df- fAdf | "A"e2 ce- eAce | 
+"D"f2 df- ffdf | "A7"geaf gfed | "A7"ABcd efge | "D"f2 d2 d2 :|
 
 X:12
 T:Spootiskerry
@@ -215,11 +215,11 @@ M:4/4
 L:1/8
 K:G
 DE | "G"G2 DE GDEG | "G"DEGA "D7"B2 AB | "G"G2 DE "Em"GDEG | "Am7"eged "D7"B2 AB | 
-"G"G2 DE "D7/A"GDEG | "G/B"DEGA "Em"B2 AB | "Am7"g2 ed "D7"edBA | "G"B2 G2 G2 :|]
+"G"G2 DE "D7/A"GDEG | "G/B"DEGA "Em"B2 AB | "Am7"g2 ed "D7"edBA | "G"B2 G2 G2 :|
 ef | "Em"g2 ed ed B2 | "G7"BABG "C"E2 DE | "G"GABd "Em"eged | "Am"B2 A2 "D7"A2 ef | 
 "Em"g2 ed ed B2 | "G7"BABG "C"E2 DE | "G/D"GABd "D"eged | "G"B2 G2 G2 ef |
 "Em"g2 ed ed B2 | "G7"BABG "C"E2 DE | "G"GABd "Em"eged | "Am"B2 A2 "D7"A2 DE | 
-"G"G2 DE "D7/A"GDEG | "G/B"DEGA "Em"B2 AB | "Am7"g2 ed "D7"edBA | "G"B2 G2 G2 |]
+"G"G2 DE "D7/A"GDEG | "G/B"DEGA "Em"B2 AB | "Am7"g2 ed "D7"edBA | "G"B2 G2 G2 |
 
 %%newpage
 
@@ -271,7 +271,7 @@ K: G
 def|: "G"g3/2f/g3/2f/|gddB| "C"c/d/ e"D"d3/2c/|"G"BGG3/2A/|
 "Em"BGG A/B/ |"Am"cA"D7"A2| "G"B/c/ dcB|[1"D7"Adef:| [2"D"A2A2||
 |: "G"BGG A/B/ |"Am"cA"Bm"dB|"C"ecc d/e/ |"D"f2d e/f/ |
-"G"g3/2f/g f/e/ |"D"d e/f/ "G"gB| "C"c/d/ e"D"d3/2c/|[1"G"BGGA:| [2"G"Bd"D7"ef|] 
+"G"g3/2f/g f/e/ |"D"d e/f/ "G"gB| "C"c/d/ e"D"d3/2c/|[1"G"BGGA:| [2"G"Bd"D7"ef| 
 
 X:18
 T: Rochdale Coconut Dance
@@ -300,9 +300,9 @@ M:2/4
 L:1/8
 K:G
 B/2G/2 | "G"GB d3/2d/2 | "C"ee cA | "D7"AB cc | "G"d3/2d/2 BG |\
-GB d3/2d/2 | "C"ee cA | "D7"dd cA | "G"G2 G :|]
-[|:B/2d/2 | "G"g3/2g/2 ga | g2 d2 | "F"=ff/2f/2 fg | =f2 d2 |\
-"G"g3/2g/2 ga | g2 d2 | "F"=fd "D7"cA | "G"G2 G :|]
+GB d3/2d/2 | "C"ee cA | "D7"dd cA | "G"G2 G :|
+|:B/2d/2 | "G"g3/2g/2 ga | g2 d2 | "F"=ff/2f/2 fg | =f2 d2 |\
+"G"g3/2g/2 ga | g2 d2 | "F"=fd "D7"cA | "G"G2 G :|
 
 X:21
 T:On the Road to Boston
@@ -310,9 +310,9 @@ M:2/4
 L:1/8
 K:D
 A | "D"f2 fe/2f/2 | "G"gf ed | "A7"cd ef | "D"dA FA |\
-f2 fe/2f/2 | "G"gf ed | "A7"cd ef | "D"d2 d :|]
-[|:f/2g/2 | "D"a2 ag/2a/2 | "G"ba gf | "A7"g2 gf/2g/2 | "D"ag fe |\
-"Bm"f2 fe/2f/2 | "G"gf ed | "A7"cd ef | "D"d2 d :|]
+f2 fe/2f/2 | "G"gf ed | "A7"cd ef | "D"d2 d :|
+|:f/2g/2 | "D"a2 ag/2a/2 | "G"ba gf | "A7"g2 gf/2g/2 | "D"ag fe |\
+"Bm"f2 fe/2f/2 | "G"gf ed | "A7"cd ef | "D"d2 d :|
 
 X:22
 T:Oh Suzanna
@@ -320,9 +320,9 @@ M:2/4
 L:1/8
 K:D
 D/2E/2 | "D"FA AB | AF DE | "E7"FF ED | "A"E3 D/2E/2 |\
-"D"FA AB | AF DE | "D"FF "A7"EE | "D"D3 :|]
-[|: E/2F/2 | "G"G2 G2 | B B2 B | "D"AA FD | "A"E3 D/2E/2 |\
-"D"FA AB | AF DE | "D"FF "A7"EE | "D"D3 :|]
+"D"FA AB | AF DE | "D"FF "A7"EE | "D"D3 :|
+|: E/2F/2 | "G"G2 G2 | B B2 B | "D"AA FD | "A"E3 D/2E/2 |\
+"D"FA AB | AF DE | "D"FF "A7"EE | "D"D3 :|
 
 X:23
 T:Golden Slippers
@@ -330,9 +330,9 @@ M:2/4
 L:1/8
 K:G
 G/2A/2| "G"BB BG/2A/2 | BB BG/2A/2 | BB cB | "D7"BA AF/2G/2 |\
-AA AF/2G/2 | AA AF/2G/2 | Ac BA | "G"G3 :|]
-[|: D | "G"D3 G | BA GD | "Am"E3 A | cB AE |\
-"D7"F3/2F/2 FG |1 AA A2 | "G"GF GA | BG E :|]2 "D7"AA c2 | BcBA | "G"G3 |]
+AA AF/2G/2 | AA AF/2G/2 | Ac BA | "G"G3 :|
+|: D | "G"D3 G | BA GD | "Am"E3 A | cB AE |\
+"D7"F3/2F/2 FG |1 AA A2 | "G"GF GA | BG E :|2 "D7"AA c2 | BcBA | "G"G3 |
 
 %%newpage
 
@@ -353,9 +353,9 @@ M:4/4
 L:1/8
 K:Bm
 ag | "Bm"fBBf edcB | "G"GBdB "A"A2 ag | "Bm"fBBf edcB | "G"GBdB "A"A2 ag |
-"Bm"fBBf edcB | "G"GBdB "A"A2 ag | "Bm"fBBf edcB |1 "A"edcd "Bm"B2 :|]2 "A"edcd "Bm"B4 ||
-[|: "G"G2 GF GA B2 | "A"Acdc dcBA | "G"G2 GF GA B2 | "A"ABAE "F#m"F3 F |
-"G"G2 GF GA B2 | "A"Acdc dcde | "Bm"fedf "A"edcA | "Bm"B2 BA B4 :|]
+"Bm"fBBf edcB | "G"GBdB "A"A2 ag | "Bm"fBBf edcB |1 "A"edcd "Bm"B2 :|2 "A"edcd "Bm"B4 ||
+|: "G"G2 GF GA B2 | "A"Acdc dcBA | "G"G2 GF GA B2 | "A"ABAE "F#m"F3 F |
+"G"G2 GF GA B2 | "A"Acdc dcde | "Bm"fedf "A"edcA | "Bm"B2 BA B4 :|
 
 X:26
 T:Catharsis
@@ -364,9 +364,9 @@ M:4/4
 L:1/8
 K:Gm
 "Gm"[G,D]GGF DGGF | DFGA BGAF | "Gm"DGGF DGGF | "Cm"DCB,C "Dm"B,A,B,A, | 
-"Gm"[G,D]GGF DGGF | DFGA BABc | dcBc BAGF |1 "Dm"DGGF "Gm"G2 G2 :|]2 "Gm"DGGF "Dm"GABc ||
-[|:"Gm"dGGc GGBG | GAGG GABc | "F"dFFc FFBF | FAFF GABc | 
-"Eb"dEEc EEBE | EAEE GABc | "Gm"dcBc BAGF |1 "Dm"DGGF "Gm"GABc :|]2 "Dm"DCB,C B,A,B,A, |]
+"Gm"[G,D]GGF DGGF | DFGA BABc | dcBc BAGF |1 "Dm"DGGF "Gm"G2 G2 :|2 "Gm"DGGF "Dm"GABc ||
+|:"Gm"dGGc GGBG | GAGG GABc | "F"dFFc FFBF | FAFF GABc | 
+"Eb"dEEc EEBE | EAEE GABc | "Gm"dcBc BAGF |1 "Dm"DGGF "Gm"GABc :|2 "Dm"DCB,C B,A,B,A, |
 
 %%newpage
 %%scale 0.7
@@ -388,9 +388,9 @@ M:4/4
 L:1/8
 K:D
 FE | "D"DFAd "G"BcdB | "A"Acec "D"d2 ef | "G"g2 ga gfeg | "D"fedB A2 A2 | 
-"G"B3 A BcdB | "D"AGFG A2 (3ABc | "D"d2 f2 "A"ed c2 | "D"d6 :|]
-[|: fg | "D"a2 ab agfa | "A"gfef g2 ag | "Bm"f2 df gfed | "A"cdec A2 A2 | 
-"G"B3 A BcdB | "D"AGFG A2 (3ABc | "D"d2 f2 "A"ed c2 | "D"d6 :|]
+"G"B3 A BcdB | "D"AGFG A2 (3ABc | "D"d2 f2 "A"ed c2 | "D"d6 :|
+|: fg | "D"a2 ab agfa | "A"gfef g2 ag | "Bm"f2 df gfed | "A"cdec A2 A2 | 
+"G"B3 A BcdB | "D"AGFG A2 (3ABc | "D"d2 f2 "A"ed c2 | "D"d6 :|
 
 X:29
 %%titlespace -19
@@ -404,8 +404,8 @@ ABcd | "A"eAAe AAeA | AAeA (3efe ed | ceAB cAeA | ceAc dedc |
 "E"B4 BABc | (3BcB Ac efed | "A"c2 B2 ABcA | "E"E4 ABcd | 
 "A"eAAe AAeA | AAeA (3efe ed | ceAB cAeA | ceAc dedc | 
 "E"B4 BABc | e2 d2 c2 B2 | "A"Afed "E"cdBc | "A"A2 c2 (3BcB A2 ||
-[|: "D"a4 f4 | d3 A d2 fd | "A"e4 efec | A2 c2 (3BcB A2 | "E"B4 BABc | 
-e2 d2 c2 B2 |1 "A"cBAc ecef | e2 c2 (3BcB A2 :|]2 "A"Afed "E"cdBc | "A"A4|]
+|: "D"a4 f4 | d3 A d2 fd | "A"e4 efec | A2 c2 (3BcB A2 | "E"B4 BABc | 
+e2 d2 c2 B2 |1 "A"cBAc ecef | e2 c2 (3BcB A2 :|2 "A"Afed "E"cdBc | "A"A4|
 
 X:30
 %%titlespace -15
@@ -415,9 +415,9 @@ M:4/4
 L:1/8
 K:Bm
 "Bm"BAFA BAFA | BABc dcde | fBcB dBcB | "F#m"A2 F2 A2 F2 | 
-"Bm"BAFA BAFA | BABc dcde | "Bm"fBcB "F#m"dcBA |1 "Bm"B8 :|]2 B6 ||
-[|:AB | "D"dBAF ABde | fefg a3 a | "A"gfed cdef | gfed cdec | 
-"D"dBAF ABde | fefg a2 fa | "A"gfed cdec |1 "D"d6 :|]2 "D"d2 f2 "F#7"ed c2 |]
+"Bm"BAFA BAFA | BABc dcde | "Bm"fBcB "F#m"dcBA |1 "Bm"B8 :|2 B6 ||
+|:AB | "D"dBAF ABde | fefg a3 a | "A"gfed cdef | gfed cdec | 
+"D"dBAF ABde | fefg a2 fa | "A"gfed cdec |1 "D"d6 :|2 "D"d2 f2 "F#7"ed c2 |
 
 %%scale 0.8
 %%newpage
@@ -440,7 +440,7 @@ K: Amaj
 "A" E2 F2 A2 AB| cB A2 c(e e2)| E2 F2 A2 AB| cB A2 "D"F4|
  "A" E2 F2 A2 AB| cB A2 c(e e2)| "A"efed "E" cA B2| "A" A3 B A4 ::
  "A" edcd e2 ef| edcB A2 e2| "D" fede f2 a2| "A" e3 f e4|
- "D" fede f2 a2| "A" efed cBAB| "A"c2c2 "E" BA F2| "A" A3 B A4 :|]
+ "D" fede f2 a2| "A" efed cBAB| "A"c2c2 "E" BA F2| "A" A3 B A4 :|
 
 X:33
 T:Feed Her Candy and Tell Her Lies
@@ -501,10 +501,10 @@ M: 4/4
 L: 1/4
 K: G
 |"G"G G/A/  G/E/D/E/ |G3A|"Em"B B/c/  B/A/ G|E4|"C"e e/f/ ge|
-"G"d d/e/ dB|[1"A7"ABc^c|"D7"dDEF:|  [2"D7"B/A/B/(d/  d/)B/ A|"G"Gdef|]
+"G"d d/e/ dB|[1"A7"ABc^c|"D7"dDEF:|  [2"D7"B/A/B/(d/  d/)B/ A|"G"Gdef|
 |: 
 "G"g g/a/  g/e/ d|"Em"e3d|"C"e3/2f/ed|"G"B4|"C"e e/f/ ge|
-"G"d d/e/ dB|[1"A7"ABc^c|"D7"d^def:|  [2"D7"B/A/B/(d/  d/)B/ A|"G"G4|] 
+"G"d d/e/ dB|[1"A7"ABc^c|"D7"d^def:|  [2"D7"B/A/B/(d/  d/)B/ A|"G"G4| 
 
 X:39
 T:Sweetbriar
@@ -513,7 +513,7 @@ M:4/4
 L:1/8
 K:A
 "A"A4 c3B | ABcA BAF2 | "F#m"FEFA BABc | "D"BAF2 "E"E4 | 
-"A"A4 c3B | ABcA BAF2 | "D"FEFA BAF2 |1) "E"E8 :|2"E" E6 (e2 | 
+"A"A4 c3B | ABcA BAF2 | "D"FEFA BAF2 |1 "E"E8 :|2"E" E6 (e2 | 
 |: "A"e2) f2 e2 f2 | e2 f2 cBA(e | "F#m"e2) f2 e2 f2 | cBA2 B2 (e2 | 
 "D"e2) f2 e2 f2 | e2 f2 cBA2 | "E"cBA2 cBA2 | BABc BAF2 :|
 
@@ -566,7 +566,7 @@ cB |:"A"AcBA "D"F2AF|"A"EFAB cABc |"D"d3f ecA2 |"D"faec "E"BdcB |
 "A"aAAg AAfA |ef2e cABc |"D"d3f ecAc |"E"Bcde fefg |
 "A"aAAg AAfA |ef2e cABc |"D"d3f ecAc |"E"BAGB "A"Aefg |
 "A"aAAg AAfA |ef2e cABc |"D"d3f ecA2 |"D"faec "E"BdcB|
-"A"AcBA "D"F2AF |"A"EFAB cABc |"D"d3f "A"ecAc |"E"BAGB "A"A4 |]
+"A"AcBA "D"F2AF |"A"EFAB cABc |"D"d3f "A"ecAc |"E"BAGB "A"A4 |
 
 %%newpage
 %%scale 0.8
@@ -693,9 +693,9 @@ M:4/4
 L:1/4
 K:D
 d/2e/2 | "D"f f g/2f/2 e | d B A3/2 e/2 | f f g/2f/2 e | f3 d/2e/2 | \
-"D"f a "A7"g/2f/2e | "D"d B  A3/2 B/2 | "C"=c c B A | "G"G3 :|]
-[|: F/2G/2 | "D"A A "G"B B | "A7"A/2B/2A/2G/2 "D"F F/2G/2 | "D"A d "A7"c/2d/2 e | "D"f3 F/G/ | \
-"D"A A "G"B B | "A7"A/2B/2A/2G/2 "D"F F/2G/2 | "D"A A "A7"G/F/ E | "D"D3 :|]
+"D"f a "A7"g/2f/2e | "D"d B  A3/2 B/2 | "C"=c c B A | "G"G3 :|
+|: F/2G/2 | "D"A A "G"B B | "A7"A/2B/2A/2G/2 "D"F F/2G/2 | "D"A d "A7"c/2d/2 e | "D"f3 F/G/ | \
+"D"A A "G"B B | "A7"A/2B/2A/2G/2 "D"F F/2G/2 | "D"A A "A7"G/F/ E | "D"D3 :|
 
 X:56
 T:Aiken Drum
@@ -703,9 +703,9 @@ M:4/4
 L:1/4
 K:G
 G/2A/2 | "G"B B c/2B/2A/2G/2 | "C"E2 G3/2 E/2 | "G"D E G D | "D"B A A G/2A/2 | \
-"G"B B c/2B/2A/2G/2 | "C"E2 G3/2 E/2 | "D7"D D E F | "G"G3 :|]
-[|: G/2A/2 | "G"B B B A/2G/2 | "C"c2 e3/2 c/2 | "G" B d B G | "D"B A A G/2A/2 | \
-"G"B B c/2B/2A/2G/2 | "C"E2 G3/2 E/2 | "D7"D D E F | "G"G3 :|]
+"G"B B c/2B/2A/2G/2 | "C"E2 G3/2 E/2 | "D7"D D E F | "G"G3 :|
+|: G/2A/2 | "G"B B B A/2G/2 | "C"c2 e3/2 c/2 | "G" B d B G | "D"B A A G/2A/2 | \
+"G"B B c/2B/2A/2G/2 | "C"E2 G3/2 E/2 | "D7"D D E F | "G"G3 :|
 
 X:57
 T:Uncle Bernard's
@@ -713,9 +713,9 @@ M:4/4
 L:1/4
 K:G
 D | "G"G A B c | d3/2 e/2 d/2c/2 B | "D7"c3/2 d/2 c/2B/2 A | "G"B3/2 c/2 B A | \
-G A B c | d3/2 e/2 d g | "D7"f/2e/2d/2c/2 B A | "G"G3 :|]
-[|: d | "C"g g f e | "G"d3/2 e/2 d/2c/2 B | "D7"c3/2 d/2 c/2B/2 A | "G"B3/2 c/2 B d | \
-"C"g g f e | d3/2 e/2 d g | "D7"f/2e/2d/2c/2 B A | "G"G3 :|]
+G A B c | d3/2 e/2 d g | "D7"f/2e/2d/2c/2 B A | "G"G3 :|
+|: d | "C"g g f e | "G"d3/2 e/2 d/2c/2 B | "D7"c3/2 d/2 c/2B/2 A | "G"B3/2 c/2 B d | \
+"C"g g f e | d3/2 e/2 d g | "D7"f/2e/2d/2c/2 B A | "G"G3 :|
 
 X:58
 T:Jenny Lind
@@ -723,9 +723,9 @@ M:4/4
 L:1/8
 K:D
 A2 | "D"F2 A2 "G"G2 B2 | "D"A2 f2 fe f2 | "A7"G2 e2 ed e2 | "D"F2 d2 d2 AG | \
-"D"F2 A2 "G"G2 B2 | "D"A2 f2 fefa | "A7"g2 e2 ^cdec | "D"d2 f2 d2 :|][K:G]
-[|: ef | "C"g2 f2 efge | "G"d2 B2 BABd | "D7"c2 A2 AGAc | "G"B2 G2 G2 ef | \
-"C"g2 f2 efge | "G"d2 B2 BABd | "D7"c2 A2 AcBA | "G"G2 B2 G2 :|]
+"D"F2 A2 "G"G2 B2 | "D"A2 f2 fefa | "A7"g2 e2 ^cdec | "D"d2 f2 d2 :|[K:G]
+|: ef | "C"g2 f2 efge | "G"d2 B2 BABd | "D7"c2 A2 AGAc | "G"B2 G2 G2 ef | \
+"C"g2 f2 efge | "G"d2 B2 BABd | "D7"c2 A2 AcBA | "G"G2 B2 G2 :|
 
 %%newpage
 
@@ -744,9 +744,9 @@ M:2/4
 L:1/8
 K:D
 "D"FA AB/2c/2 | de d3/2c/2 | "G"BA Bc/2d/2 | "A"e3/2d/2 ef | \
-"D"FA AB/2c/2 | "Bm"de f3/2e/2 | "G"dB "D"Af | "A"e2 "D"d2 :|]
+"D"FA AB/2c/2 | "Bm"de f3/2e/2 | "G"dB "D"Af | "A"e2 "D"d2 :|
 |: "D"fa d3/e/ | fa ag/f/ | "Em"gb e3/f/ | "G"gb ba/g/ | \
-"D"fa "A"ef/e/ | "Bm"de f3/e/ |"G"dB "D"Af | "A"e2 "D"d2 :|]
+"D"fa "A"ef/e/ | "Bm"de f3/e/ |"G"dB "D"Af | "A"e2 "D"d2 :|
 
 X:61
 T:The Ballynahula
@@ -754,9 +754,9 @@ M:2/4
 L:1/8
 K:A
 "A"c3/c/ BA | "D"FA AB | "A"cB/c/ BA | "E7"B/c/d e3/f/ | \
-"A"ec BA | "D"FA A3/B/ | "A"c3/c/ ec | "E7"BA "A"A2 :|]
-[|: "A"a3/f/ ec | "A"ec "E7"BA | "A"a3/f/ ec | "E7"B/c/d e2 | \
-"A"a3/f/ ec | "A"ec "E7"BA | "A"B/c/c ec | "E7"BA "A"A2 :|]
+"A"ec BA | "D"FA A3/B/ | "A"c3/c/ ec | "E7"BA "A"A2 :|
+|: "A"a3/f/ ec | "A"ec "E7"BA | "A"a3/f/ ec | "E7"B/c/d e2 | \
+"A"a3/f/ ec | "A"ec "E7"BA | "A"B/c/c ec | "E7"BA "A"A2 :|
 
 X:62
 T:Kitchen Girl
@@ -766,7 +766,7 @@ K:Amix
 "A"a4 "G"g4 | "A"efed c2 cd | e2 f2 g2 a2 | "E"b2 e2 e4 | 
 "A"a4 "G"g4 | "A"efed c2 cd | e2 A2 Bc d2 | c2 A2 A4 :|
 [K:Ador]|: "Am"AB=cA "G"BAG2 | "Am"ABAG E2 A2 | A2 B2 c2 d2 | "E"[ec]4 [eB]4 | 
-"Am"ABcA "G"BAG2 | "Am"ABAG E2 A2 | "Am"ABcA "G"BAG2 | "Am"A4 A4 :|]
+"Am"ABcA "G"BAG2 | "Am"ABAG E2 A2 | "Am"ABcA "G"BAG2 | "Am"A4 A4 :|
 
 %%newpage
 
@@ -800,7 +800,7 @@ K:A
 E | "A"A3/c/ e/c/A/c/ | e a g f | e3/c/ e/c/A/c/ | "E"B d c B |
  "A"A3/c/ e/c/A/c/ | e a g f | e3/c/ a c | "E"B2 "A"A :|
 |: E | "E"E3/G/ B/G/E/G/ | B d c B | "A"A3/c/ e/c/A/c/ | e a g f |
- e3/c/ a3/f/ | e e/c/ a3/f/ | e3/c/a c | "E"B2 "A"A :|]
+ e3/c/ a3/f/ | e e/c/ a3/f/ | e3/c/a c | "E"B2 "A"A :|
 
 X:66
 %%titlespace -5
@@ -812,7 +812,7 @@ K:G
 D2 | "G"G2 DG B2 GB | d2 ed cBAG | "D"F2 DF A2 FA | d^cde d=cBA | 
 "G"G2 DG B2 GB | d2 ed cBAG | "D"FDFA dcBA | "G"G2B2G2 :|
 |: Bc | "G"d2Bd gdBd | "C"e2ce gece | "G"d2Bd gdBd | "D"c2fe "D7"dcBc | 
-"G"d2Bd gdBd | "C"e2ce gece | "D"dgfe dcBA | "G"G2B2G2 :|]
+"G"d2Bd gdBd | "C"e2ce gece | "D"dgfe dcBA | "G"G2B2G2 :|
 
 %%newpage
 
@@ -833,7 +833,7 @@ K:Dm
 "Dm"FD DA | FD DE/F/ | "C"GF ED | "Am"CE A,2 | 
 "Dm"FD DA | FD DE/F/ | "C"GE DC | "Dm"D2 D2 :|
 |: "Dm"FA AB/c/ | dA AB/c/ | dA AG | "Am"FG E2 | 
-"Dm"FA AB/c/ | dA AB/c/ | "C"dc AG | "Dm"F2 D2 :|]
+"Dm"FA AB/c/ | dA AB/c/ | "C"dc AG | "Dm"F2 D2 :|
 
 X:69
 T:John Ryan's Polka
@@ -841,9 +841,9 @@ M:4/4
 L:1/4
 K:D
 A | "D"d "D"d "--"B/2c/2d/2B/2 | "D"A F A F | "D"d "D"d "--"B/2c/2d/2B/2 |  "D"A F E D | 
-"D"d "D"d "--"B/2c/2d/2B/2 | "D"A F A d/2e/2 | "D"f d "A7"e c | "D"d3 :|]
-[|: d/2e/2 | "D"f d d e/2f/2 | "G"g f "A7"e d/2e/2 | "D"f d A d/2e/2 | "D"f d "A7" a3/2 g/2 | 
-"D"f d d e/2f/2 | "G"g f "A7"e d/2e/2 | "D"f d "A7"e c | "D"d3 :|]
+"D"d "D"d "--"B/2c/2d/2B/2 | "D"A F A d/2e/2 | "D"f d "A7"e c | "D"d3 :|
+|: d/2e/2 | "D"f d d e/2f/2 | "G"g f "A7"e d/2e/2 | "D"f d A d/2e/2 | "D"f d "A7" a3/2 g/2 | 
+"D"f d d e/2f/2 | "G"g f "A7"e d/2e/2 | "D"f d "A7"e c | "D"d3 :|
 
 %%newpage
 
@@ -969,7 +969,7 @@ K: Dmix
 |: "D"d2 A2 "C"c3 B | "D"A2 F2 "G"G2 FG| "D"A2 A2 ABAG |F2 A2 "A"E4 |
 "D"d2 A2 "C"c3 B | "D"A2 "G"F2 G2 FG | "D"A2 A2 ABAG | [1 "A"F2 E2 "D"D4 :| [2 "A"F2 E2 "D"D2 ||
 |: EF| "Em"G2 E2 BGEB | GE B2 B2 AG | "D"F2 D2 AFDA | FD A2 A2 GF |
-"Em"G2 E2 BGEB | GE B2 B2 AG | "D"A2 A2 ABAG | [1 "A"F2 E2 "D"D2 :| [2 "A"F2 E2 "D"D4 |]
+"Em"G2 E2 BGEB | GE B2 B2 AG | "D"A2 A2 ABAG | [1 "A"F2 E2 "D"D2 :| [2 "A"F2 E2 "D"D4 |
 
 %%newpage
 
@@ -1000,7 +1000,7 @@ K: D
 "D"A3/2G/FG| "D"A/B/=c/A/ "G"BG|"D"A3/2G/FG|"A7"A/dc/"D"d2|
 "D"A3/2G/FG| "D"A/B/=c/A/ "G"BG|"D"Ad "A"^c/d/e/c/ |"D"d2d2:: 
 "D"fa"A"g f/e/ |"G"dB"A"A2|"D"fa "A"g/f/ e|"D"d3e|
-"D"fa"A"g f/e/ |"G"d3/2B/"D"AB|"C"=ccBA|[1"G"G4:| [2"G"G2FG|] 
+"D"fa"A"g f/e/ |"G"d3/2B/"D"AB|"C"=ccBA|[1"G"G4:| [2"G"G2FG| 
 
 %%newpage
 
@@ -1021,7 +1021,7 @@ K:G
 DF |"G"G2G "D7"F2F | "G"GFG D2D | "C"E2E "Am"c2B | "D7"A3- A2D | 
 "C"E2c cBc | "G"d2B G2D | "C"E2c "D7"B2A | "G"G3- G :|
 |: Bc | "G"d2d ded | "A7"^c2A A2B | "D7"=c2c cBA | "G7"B3 d3 | 
-"C"e2c Ace | "G"d2B G2B | "D7"d2d cAF | "G"G3- G :|]
+"C"e2c Ace | "G"d2B G2B | "D7"d2d cAF | "G"G3- G :|
 
 X:86
 T:Major Mackie's Jig
@@ -1031,7 +1031,7 @@ K:D
 FG |"D"ABc dcd | "Em"B2e e2d | "A7"c2a a^ga | "D"f2d d3 | 
 "D"ABc dcd | "Em"B2e e2d | "A7"c2a gfe | "D"d3- d :|
 |: de | "D"f2f def | "Em"g3 g2f | "A7"e2e cde | "D"f3 f2e | 
-"Bm"d2d def | "Em"g2B e2d | "A7"c2a gfe | "D"d3- d :|]
+"Bm"d2d def | "Em"g2B e2d | "A7"c2a gfe | "D"d3- d :|
 
 %%newpage
 
@@ -1052,7 +1052,7 @@ K:G
 d | "G"gfg d2B | "C"cde "G"d2D | "C"EFG "G"DGB | "Am"c2B "D"A2d | 
 "G"gfg d2B | "C"cde "G"d2B | "D"c2A DEF | "G"G3- G2 :|
 |: D | "C"EGc edc | "G"Bcd D3 | "D"cBc A3 | "G"B_B=B GF=F | 
-"C"EGc edc | "G"Bcd D2B | "D"c2A DEF | "G"G3- G2 :|]
+"C"EGc edc | "G"Bcd D2B | "D"c2A DEF | "G"G3- G2 :|
 
 X:89
 T:The Seven Stars
@@ -1062,7 +1062,7 @@ K:D
 "D"d2A A2F | "Em"GAB "D"A2A | "G"Bcd "Em"efg | "A"fed cBA | 
 "D"d2A A2F | "Em"GAB "D"A2A | "G"Bcd "Em"efg | "A"Adc "D"d3 ::
 "A"e2A A2f | "A"efg "D"f3 | "A"efg "D"fed | "A"cde A2A | 
-"G"BGB "D"AFA | "G"BGB "D"AFA | "G"Bcd "Em"efg | "A"Adc "D"d3 :|]
+"G"BGB "D"AFA | "G"BGB "D"AFA | "G"Bcd "Em"efg | "A"Adc "D"d3 :|
 
 %%newpage
 
@@ -1083,7 +1083,7 @@ K:A
 A | "A"efe "E7"dcB | "A"A2c E2c | c^Bc edc | "E7"=B3 Bcd | 
 "A"efe "E7"dcB | "A"A2c E2f | "E7"gfe dcB | "A"A3- A2 :|
 |: c | "A"e2c a2g | "D"f2d "Bm"b2a | "E7"g2B Bdf | "A"e3 ecd | 
-"A"e2c a2g | "D"f2d "Bm"b2a | "E7"gfe dcB | "A"A3- A2 :|]
+"A"e2c a2g | "D"f2d "Bm"b2a | "E7"gfe dcB | "A"A3- A2 :|
 
 X:92
 T:The Railway
@@ -1093,7 +1093,7 @@ K:G
 B | "G"G2G GBd | g2d d2d | "Am"e2d c2B | "D"ABG FED |
 "G"G2G GBd | g2d d2d | "C"edc "G"BAG | "D7"A3 "G"G2 :| 
 |: d | "G"b2b b2a | g2g g2d | "C"e2d efg | "D"a2g fed |
-"G"b2b b2a | g2g g2d | "C"efg "D"agf | "G"g3- g2 :|]
+"G"b2b b2a | g2g g2d | "C"efg "D"agf | "G"g3- g2 :|
 
 %%newpage
 
@@ -1114,7 +1114,7 @@ K:Am
 "Am"ABA cBc | dcd ege | ABA cde | "G"dBA G3 | 
 "Am"ABA cBc | dcd ege | a2a ged | "G"cAG "Am"A3 :|
 |:"Am"a2a aba | "G"ged g3 | "Am"e2a aba | "G"ged "Am"cAA | 
-"Am"a2a aba | "G"ged g3 | "Am"e2a ged | "G"cAG "Am"A3 :|]
+"Am"a2a aba | "G"ged g3 | "Am"e2a ged | "G"cAG "Am"A3 :|
 
 X:95
 T:The Boys of Tandragee
@@ -1146,7 +1146,7 @@ K:G
 Bc | "G"ded B2G | "D"A2F D3 | "G"GFG BGB | "D7"d2c A3 | 
 "G"ded B2g | "C"f2e c2e | "G"d2B "D7"cBA | "G"G3- G :| 
 |: dc | "G"Bcd Bcd | "C"e2c edc | "D7"ABc ABc | "G"d2B dcB | 
-"G"ded Bdg | "C"f2e c2e | "G"d2B "D7"cBA | "G"G3- G :|]
+"G"ded Bdg | "C"f2e c2e | "G"d2B "D7"cBA | "G"G3- G :|
 
 X:98
 %%musicspace -10
@@ -1170,7 +1170,7 @@ K:A
 AB | "A"c2E EFE | "D"F2A A2f | "A"e2c cBA | "E7"c2B BAB |
 "A"c2E EFE | "D"F2A A2f | "A"e2c "E7"BcB | "A"A3- A :|
 |: cd | "A"e2e ece | "D"f2a a2f | "A"e2c cBA | "E7"c2B Bcd |
-"A"e2e ece | "D"f2a a2f | "A"e2c "E7"BcB | "A"A3- A :|]
+"A"e2e ece | "D"f2a a2f | "A"e2c "E7"BcB | "A"A3- A :|
 
 %%newpage
 %%scale 0.79
@@ -1240,7 +1240,7 @@ K:G
 (3D/E/F/ | "G"G2G G2B | "G"edB "D7"A2B | "G"G2G G2A | "G"BAG "C"E2D | 
 "G"E/G3/G G2B | "G"edB "D7"A2B | "Em"G2G GAB | "Bm"d3 "D7"d2 :|
 |: B | "G"def g2d | "C"edB "D7"A2B | "Em"G2G G2A | "G"BAG "C"E2A | 
-"G"def g2d | "C"edB "D7"A2B | "Em"G2G GAB | "Bm"d3 "D7"d2 :|]
+"G"def g2d | "C"edB "D7"A2B | "Em"G2G GAB | "Bm"d3 "D7"d2 :|
 
 X:106
 T:The Shaalds of Foula 2
@@ -1250,7 +1250,7 @@ K:A
 "A"A3/B/A A2a | "D"f/e3/c "E7"B2c | "A"A2c "E7"B2c | "A"ABA "D"F2E | 
 "A"A3/B/A A2a | "D"f/e3/c "E7"B2c | "F#m"A2c "Bm"B2c | "E7"e3 e3 :| 
 |: "A"a2e c2e | "D"fec "E7"B3 | "A"a2e "E7"c2e | "A"ABA "D"F2A | 
-"A"a2e c2e | "D"fec "E7"B3 | "F#m"A2c "Bm"B2c | "E7"e3 e3 :|]
+"A"a2e c2e | "D"fec "E7"B3 | "F#m"A2c "Bm"B2c | "E7"e3 e3 :|
 
 %%newpage
 
@@ -1274,7 +1274,7 @@ f/2e/2|"D"d2d BAA|FAA BAA|"G"Bdd "D"AAA|"Em"fee "A"efe|
 a/2g/2|"D"faa "A"eaa|"D"daa "A"caa|"G"Bdd "D"AAA|"Em"fee "A"eag|
 "D"faa "A"eaa|"Bm"daa "F#m"caa|"G"Bdd "D"Aff|"A"edd "D"dag|
 "D"faa "A"eaa|"D"daa "A"caa|"G"Bdd "D"AAA|"Em"fee "A"efe|
-"D"d2d BAA|FAA BAA|"G"Bdd "D"Aff|"A7"edd "D"d2|]
+"D"d2d BAA|FAA BAA|"G"Bdd "D"Aff|"A7"edd "D"d2|
 
 X:109
 T: Calliope House
@@ -1285,7 +1285,7 @@ K: Emaj
 B|:"E"eBB gBB|fBB gfe|"A"cff f2e|"B"fgf e2c|"E"BcB B2G|
 B2c e2f|1 "A"g2b gfe|"B"f3 f2B:|2 "A"gbg "B"fec|"E"e3 ega|
 |:"E"b3 gbb|fbb gbb|"A"a3 gag|"B"f2e c2e|"E"BcB B2G|
-B2c e2f|1 "A"g2b gfe|"B"f3 fga:|2 "A"gbg "B"fec| "E"e3 e2|]
+B2c e2f|1 "A"g2b gfe|"B"f3 fga:|2 "A"gbg "B"fec| "E"e3 e2|
 
 %%newpage
 
@@ -1349,9 +1349,9 @@ M: 6/8
 L: 1/8
 K: Emin
 "Em"B,EF G2A|BAG FED|"C"CEF G2A|BAG BAG|"D"FED A,2D|
-FEF AGF|1"Em"EFG BAG|"Bm"F3 FED:|]2"Em"GFE "Bm"FED|"Em"E3 E2||
+FEF AGF|1"Em"EFG BAG|"Bm"F3 FED:|2"Em"GFE "Bm"FED|"Em"E3 E2||
 |:A|"Em"Bef gfe|"C"cef gfe|"D"dfg agf|"G"gfe "Bm"fed|
-"Em"Bef gfe|"C"ceg "D"a2a|"G"bag "Bm"fgf|"Em"e3 e2:|]
+"Em"Bef gfe|"C"ceg "D"a2a|"G"bag "Bm"fgf|"Em"e3 e2:|
 
 %%newpage
 
@@ -1374,7 +1374,7 @@ K:Ador
 "Am"e2e dBA |"C"e2e dBA | "G"GAB  dBA | "Em"GAB  dBd |
 "Am"e2e dBA |"C"e2e "G"dBA | "G"GAB  dBA | "Em"EFG "Am"A3|
 "Am"e=fe  dBA | "C"e=fe  dBA | "G"GAB  dBA | "Em"GAB  dBd | 
-"Am"e=fe  "G"ded | "F"cec  "G"BeB | "Em"GAB  dBA | "Em"EFG A3|] 
+"Am"e=fe  "G"ded | "F"cec  "G"BeB | "Em"GAB  dBA | "Em"EFG A3| 
 
 X:118
 T: The Blue Jig
@@ -1408,7 +1408,7 @@ K: Gmaj
 "G"G6 | d3 cBA | g6 | d3 cBA | g6 | d3 cBc | "D"A6 | A3 D2D | 
 "G"G6 | d3 cBA | g6 | d3 cBA | g6 | d3 cBc | "D"A6 | A3 D2D | 
 "C"E3-E2E | c2B A2G | "G"GAB "C"A2E | "D"F3 D2D |"C" E3-E2E | c2B A2G | "D"d2A A3- | A3 D2D | 
-"C"E3-E2E | c2B A2G | "G"GAB A2E | "D"F3 d2d | "G5 ish"g2=f_e2d | c2_BA2G | "D"d6 | d6 |]
+"C"E3-E2E | c2B A2G | "G"GAB A2E | "D"F3 d2d | "G5 ish"g2=f_e2d | c2_BA2G | "D"d6 | d6 |
 
 X: 121
 %%titlespace -20
@@ -1421,7 +1421,7 @@ K: Em
 "Em"E2E- EEF | "C"G2G -GGA | "D"F2F- FED | "Em"DE2B,2D | "Em"E2E- EEF | "C"G2G -GGA | "D"F2F- FED |"Em"E3B,2D | 
 "Em"E2E- EEG | "Am"A2A -AAB |"C" c2c- cBA | "Em"BE2 E2F | (3"Em"G2"Em"G2"D"A2 | "Em"BE2 EFG | "D"FF2 -FGE | "D"F3-F3 | 
 "Em"B3z3 | "C"c3z3 | "G" (3B2B2d2 | "D"BA2-A3 | "D"A3z3 | "Em"G3z3 | "Bm"(3F2G2F2 | "Em"FE2-EGA | 
-"Em"B3z3 | "C"c3z3 | "G" (3B2B2d2 | "D"BA2-A3 | "D"A3z3 | "Em"G3z3 | "Bm"(3F2G2F2 |"Em" E3- E3|]
+"Em"B3z3 | "C"c3z3 | "G" (3B2B2d2 | "D"BA2-A3 | "D"A3z3 | "Em"G3z3 | "Bm"(3F2G2F2 |"Em" E3- E3|
 
 X: 11s
 %%titlespace -20
@@ -1434,7 +1434,7 @@ K: Gmaj
 G2A| "G"B3 d3 | B2A G2A | G3-G2A | G3 B2d | "C"e3 g3 | "D"f3 d3 | "Em"B3-BcB | "D"A3 G2 A|
 "G"B3 d3 | B2A G2A | G3-G2A | G3 B2d | "C"e6 | "G"d3 B3 | "D"A6 | A6 | 
 "Em"E3-EEE | "D"D3-DDD | "Em"E6 | -E3-EAB | "Am"c3-cBA | "G/B"G3-GAB | "C"A6 | "D"G3 F3 | 
-"Em"E3-EEE | "D"D3-DDD | "Em"E6 | -E3-EAB | "Am"c3-cBc |"Bm"d3-dcd | "Em"e6 | "Em"e6|] 
+"Em"E3-EEE | "D"D3-DDD | "Em"E6 | -E3-EAB | "Am"c3-cBc |"Bm"d3-dcd | "Em"e6 | "Em"e6| 
 
 %%newpage
 
@@ -1454,9 +1454,9 @@ M:6/8
 L:1/8
 K:G
 Bc | "G"d^cd e2d | BAB d2B | "D"A2A AGA | "G"B2A G2B | d^cd e2d | BAB d2B | 
-"D7"A2A ABA | "G"G3- G :|]|: z2 | "D7"d3 def | "G"g3 gfg | "D"a2a aga | "G"b2a gfe |
-"D"d2d def | "G"g2g gfg | "D"a2g f2e | "D7"def "G"g :|]|: z2 | "G"gbg dgd | BdB G2G | 
-"D"FGA DEF | "G"G2B d2d | "G"gbg dgd | BdB G2G | "D7"FGA DEF | "G"G3-G :|]
+"D7"A2A ABA | "G"G3- G :||: z2 | "D7"d3 def | "G"g3 gfg | "D"a2a aga | "G"b2a gfe |
+"D"d2d def | "G"g2g gfg | "D"a2g f2e | "D7"def "G"g :||: z2 | "G"gbg dgd | BdB G2G | 
+"D"FGA DEF | "G"G2B d2d | "G"gbg dgd | BdB G2G | "D7"FGA DEF | "G"G3-G :|
 
 X:124
 %%musicspace -15
@@ -1466,8 +1466,8 @@ M:6/8
 L:1/8
 K:G
 dc | "G"B2 G "D"AFD | "G"GAG Gdc | B2G GAB | "C"c3 cdc | "G"B2G "D7"AFD | "G"GAG Gdc | 
-"G"B2G "D7"AFD | "G"G3 G :|]|: z2 | "Am"ABA A2G | "Em"E2F G3 | "Am"ABA c2d | "Em"e2d c2B |
-"Am"ABA A2G | "Em"E2F G3 | "Am"ABA "E7"c2B | "Am"A3 A :|]|: z2 | "G"d3 dcd | D3 D3 | 
+"G"B2G "D7"AFD | "G"G3 G :||: z2 | "Am"ABA A2G | "Em"E2F G3 | "Am"ABA c2d | "Em"e2d c2B |
+"Am"ABA A2G | "Em"E2F G3 | "Am"ABA "E7"c2B | "Am"A3 A :||: z2 | "G"d3 dcd | D3 D3 | 
 "D7"c3 cBc | D3 DEF | "G"G2D G2A | B2G B2c | "D7"d2D DEF | "G"G3- G :|
 
 X:125
@@ -1478,9 +1478,9 @@ M:6/8
 L:1/8
 K:D
 e | "D"f2e dcB | A2F D2E | FGF FED | "A7"F2E E2A | "D"f2e dcB | A2F D2E | 
-"D"FGF "A7"EDE | "D"D3- D2 :|]|: A | "D"d2A A2A | "G"BdB "D"A3 | "D"d2d "A7"efg | "D"f3 "A7"e3 | 
-"D"d2A A2A | "G"BdB "A7"A2g | "D"f2A "A7"ABc | "D"d3- d2 :|]|: f | "D"afd dfa | "A7"gec ceg | 
-"D"fdd dcd | "A7"ecA A2G | "D"FAd FAd | "G"GBd GBd | "A7"Agf edc | "D"d3- d2 :|]
+"D"FGF "A7"EDE | "D"D3- D2 :||: A | "D"d2A A2A | "G"BdB "D"A3 | "D"d2d "A7"efg | "D"f3 "A7"e3 | 
+"D"d2A A2A | "G"BdB "A7"A2g | "D"f2A "A7"ABc | "D"d3- d2 :||: f | "D"afd dfa | "A7"gec ceg | 
+"D"fdd dcd | "A7"ecA A2G | "D"FAd FAd | "G"GBd GBd | "A7"Agf edc | "D"d3- d2 :|
 
 %%newpage
 %%scale 0.79
@@ -1502,9 +1502,9 @@ M:6/8
 L:1/8
 K:G
 "G"G2G GFG | "D"A2A AGA | "Em"B2B BAG | "C"B2E "D"E2F | "G"G2G GFG | "D"A2A ABc | 
-"C"dcB "D"AGF | "Em"GEE E3 :|]|: "Em"e2f gfe | "D"fag fed | "Em"e2f gfe | "Bm"f2B BAB | 
-"Em"e2f gfe | "D"fag fed | "C"efg "D"fgf | "Em"e3 e2 f :|]|: "Em"gee e2f | "C"gee e2f | 
-"A"gfe a2g | "D"f2e def | "G"g2e "D"a2f | "C"gfe "Bm"d2d | "C"efg "D"fgf | "Em"e3 e3 :|]
+"C"dcB "D"AGF | "Em"GEE E3 :||: "Em"e2f gfe | "D"fag fed | "Em"e2f gfe | "Bm"f2B BAB | 
+"Em"e2f gfe | "D"fag fed | "C"efg "D"fgf | "Em"e3 e2 f :||: "Em"gee e2f | "C"gee e2f | 
+"A"gfe a2g | "D"f2e def | "G"g2e "D"a2f | "C"gfe "Bm"d2d | "C"efg "D"fgf | "Em"e3 e3 :|
 
 X:128
 %%musicspace -13
@@ -1514,8 +1514,8 @@ M:6/8
 L:1/8
 K:Dmix
 "D"fed "C"cAG | "D"AdB "C"cAG | "D"F2D DED | "D"FEF "A"GFG | "D"A3 "C"cAG | "D"AAA d2e | 
-"D"fed "C"cAG | "A"Add "D"d3 :|]|: "D"f2d d^cd | f2g agf | "C"e2c cBc | e2f gfe | 
-"Bm"f2g agf | "A"e2f gfe | "D"fed "A"cAG | "A"Add d3  :|]|: "D"fgf "A"efe | "D"ded "C"cdc | 
+"D"fed "C"cAG | "A"Add "D"d3 :||: "D"f2d d^cd | f2g agf | "C"e2c cBc | e2f gfe | 
+"Bm"f2g agf | "A"e2f gfe | "D"fed "A"cAG | "A"Add d3  :||: "D"fgf "A"efe | "D"ded "C"cdc | 
 "D"A2A "C"BAG | "D"FAF GED | c3 cAG | AGA d2e | "D"fed "C"cAG | "D"Add d3 :|
 
 X:129
@@ -1526,8 +1526,8 @@ M:6/8
 L:1/8
 K:G
 "G"DED DEG | "D"A2D ABc | "G"BAG "C"AGE | "C"GEA "Am"GED | "G"DED DEG | "D"A2D ABc | 
-"G"BAG "C"AGE | GED "D"D3 :|]|: "G"d2d dBG | "D"AGA "C"BGE | "G"d2d dBG | "D"ABA "G"GBd | 
-"C"g2e "G"dBG | "D"AGA "G"BGD | "G"B2G "C"AGE | "D"DED D3 :|]|: "D"A3 "G"B3 | "D"A3 ABc | 
+"G"BAG "C"AGE | GED "D"D3 :||: "G"d2d dBG | "D"AGA "C"BGE | "G"d2d dBG | "D"ABA "G"GBd | 
+"C"g2e "G"dBG | "D"AGA "G"BGD | "G"B2G "C"AGE | "D"DED D3 :||: "D"A3 "G"B3 | "D"A3 ABc | 
 "G"BAG "C"AGE | "C"GEA "Am"GED | "D"A3 "G"B3 | "D"A3 ABc | "G"BAG "C"AGE | GED "D"D3 :|
 
 %%newpage
@@ -1554,7 +1554,7 @@ K:Am
 "F"[FA]2[FA] ABc | [FA]2[FA] ABc | "Am"[EA]2[EA] ABc | [EA]2[EA] ABc |"F"[FA]2[FA] ABc | 
 [FA]2[FA] ABc |1 "C"efe dec | "G"dBc ABG :|2 "D"[^FA]2[FA] ABc | "D7"[^FA]2[FA] ABc ||
 "F"f2 e2 dc | "G"B3 Bcd | "C"e2 d2 cB | "F"A3 ABc | "G"d2 c2 BA | "E"^G3 GAB | "F"cBc "G"dcd | "E"e3 e3 | 
-"F"f2 g2 f2 | "G"B3 Bcd | "C"e2 f2 e2 | "F"A3 ABc | "G"d2 c2 BA | "E"^G3 GAB | "F"cBA "G"BAG | "Am"A3 A |]
+"F"f2 g2 f2 | "G"B3 Bcd | "C"e2 f2 e2 | "F"A3 ABc | "G"d2 c2 BA | "E"^G3 GAB | "F"cBA "G"BAG | "Am"A3 A |
 
 X:132
 %%musicspace -5
@@ -1567,7 +1567,7 @@ K:Ador
 "Am"a3 age | "G"def g2f | "Em"g3 gfe | "G"dBG GFG | 
 "C"EGG "G"DGG | "C"EGG "G"ABc | "Em"Bed "G"BAG | BAG "Am"A3 :: 
 "Am"ABA gAf | ABA edB | "G"GAG eGd | "G"GAG "Em"edB | 
-"Am"ABA gAf | "Am"ABA "Em"efg | "Am"age "G"dBG | "Em"BAG "Am"A3 :|]
+"Am"ABA gAf | "Am"ABA "Em"efg | "Am"age "G"dBG | "Em"BAG "Am"A3 :|
 
 %%newpage
 
@@ -1663,7 +1663,7 @@ L:1/8
 K:Edor
 "Em"EFE G2A B3 | "Em"EFE G2B "D"AFD | "Em"EFE G2A Bcd | "D"DFA dcB AFD :|
 "G"g2g "D"fgf "Em"e3 | "Em"EFE G2A BGE | "G"g2g "D"faf d3 | "D"DFA dcB AFD | 
-"G"g2g "D"fgf "Em"e3 | "Em"EFE G2A BGE | "G"g2g "D"afd "G"g3 | "D"DFA dcB AFD |]
+"G"g2g "D"fgf "Em"e3 | "Em"EFE G2A BGE | "G"g2g "D"afd "G"g3 | "D"DFA dcB AFD |
 
 X:142
 T:Sir Philip McHugh
@@ -1732,7 +1732,7 @@ K:D
 A3F | "D"D3A F3A D3A F3A | d3e f3e d3c B3A | "A7"e3A f3A g3A f3A | (3e2f2e2 (3d2c2B2 (3A2B2A2 (3G2F2E2 | 
 "D"D3A F3A D3A F3A | d3e f3e d3c B3A | "A7"e3A f3A g3e c3e | "D"d4 f4 d4 c2d2 ||
 "A7"e2A2 (3A2A2A2 f2A2 (3A2A2A2 | g4 f4 e2A2 (3A2A2A2 | e3A f3A g3A f3A | (3e2f2e2 (3d2c2B2 (3A2B2A2 (3G2F2E2 | 
-"D"D3A F3A D3A F3A | d3e f3e d3c B3A | "A7"e3A f3A g3e c3e | "D"d4 f4 d4 |]
+"D"D3A F3A D3A F3A | d3e f3e d3c B3A | "A7"e3A f3A g3e c3e | "D"d4 f4 d4 |
 
 X:150
 T:Navvie on the Line
@@ -1742,7 +1742,7 @@ K:G
 B3c | "G"d3f e3d "D7"(3d2e2d2 (3c2B2A2 | "G"F3A D3G B4 (3B2A2G2 | "D"F3A D3F A4 (3A2G2F2 | "G"G3B D3G B4 B3c | 
 "G"d3g f3e "D7"(3d2e2d2 (3c2B2A2 | "G"G3B D3G B4 B3c | "D7"F3G A3B c3d e3f | "G"g4 G4 G4 A3G ||
 "D"F3A D3F A4 (3A2G2F2 | "G"G3B D3G B4 (3B2A2G2 | "D"F3A D3F A4 (3A2G2F2 |"G"G3D E3F G3A B3c | 
-"G"d3g f3e "D7"(3d2e2d2 (3c2B2A2 | "G"G3B D3G B4 B3c | "D7"F3G A3B c3d e3f | "G"g4 G4 G4 |]
+"G"d3g f3e "D7"(3d2e2d2 (3c2B2A2 | "G"G3B D3G B4 B3c | "D7"F3G A3B c3d e3f | "G"g4 G4 G4 |
 
 %%newpage
 
@@ -1763,7 +1763,7 @@ L:1/8
 K:D
 f3/e/ | "D"d3/c/ d3/B/ A2 G3/F/ | "Em"E3/2E/2 F3/2G/2 "A"A2 B3/2c/2 | "D"d3/B/2 A3/B/2 d3/d/2 "A"e3/c/ | "D"d2 d2 d2 :|
 d3/e/ | "D"f2 f2 "Bm"f2 g3/f/ | "Em"g3/f/ e2 "A"e4 | "Bm"d2 d2 "E7"d2 e3/d/ | "A"c3/B/ A2 "A7"A2 B3/c/ | 
-"D"(3ded (3cBA "G"B3/c/ d2 | "D"(3ded (3cBA "G"B3/c/ d3/f/ | "Em"e2 (3efg "A7"a2 (3ABc | "D"d2 f2 d2 |]
+"D"(3ded (3cBA "G"B3/c/ d2 | "D"(3ded (3cBA "G"B3/c/ d3/f/ | "Em"e2 (3efg "A7"a2 (3ABc | "D"d2 f2 d2 |
 
 X:153
 %%musicspace -10
@@ -1774,7 +1774,7 @@ K:D
 D3E | "D"F4 F3E D4 F3A | "G"d4 d3c B8 | "D"A4 A3B A4 F3D | "A"E4 E3F E8 | 
 "D"F4 F3E D4 F3A | "G"d4 d3c B8 | "A7"e3d c3B (3A2B2A2 (3G2F2E2 | "D"D4 d3d d8 || 
 "A"e4 e3e c4 e4 | "D"d4 f4 d8 | "G"B4 B3c d3c d3B | "D"A3B A3F "A7"E3G F3E | 
-"D"F4 F3E D4 F3A | "G"d4 d3c B8 | "A7"e3d c3B (3A2B2A2 (3G2F2E2 | "D"D4 d3d d4 |]
+"D"F4 F3E D4 F3A | "G"d4 d3c B8 | "A7"e3d c3B (3A2B2A2 (3G2F2E2 | "D"D4 d3d d4 |
 
 X:154
 %%musicspace -10
@@ -1786,7 +1786,7 @@ K:G
 D4 | "G"(3G2G2G2 G4 (3G2G2G2 G4 | B3G B3d g3d B3G | "D"(3D2D2D2 D4 (3D2D2D2 D4 | F3D F3A c3A F3D | 
 "G"(3G2G2G2 G4 (3G2G2G2 G3d | B3G B3d g4 g4 | "D"f3a g3f "A7"e3g f3e | "D"d4 d4 d4  B3c || 
 "G"(3d2d2d2 d4 (3d2d2d2 d4 | "C"e3f g3f e3d c3B | "Am"c3d e3d c3B A3G | "D7"F3G A3G F3D E3F | 
-"G"(3G2G2G2 G4 (3[=FB]2[=FB]2[=FB]2 [=FB]4 | (3[Ec]2[Ec]2[Ec]2 [Ec]4 (3[_E^c]2[_E^c]2[_E^c]2 [_E^c]4 | "D7"[Dd]3[Ee] [Ff]3[Ee] [Dd]3[Dd] [Ee]2[Ff]2 | "G"[Gg]4 [Gg]4 [Gg]4 |]
+"G"(3G2G2G2 G4 (3[=FB]2[=FB]2[=FB]2 [=FB]4 | (3[Ec]2[Ec]2[Ec]2 [Ec]4 (3[_E^c]2[_E^c]2[_E^c]2 [_E^c]4 | "D7"[Dd]3[Ee] [Ff]3[Ee] [Dd]3[Dd] [Ee]2[Ff]2 | "G"[Gg]4 [Gg]4 [Gg]4 |
 
 %%newpage
 
@@ -1900,7 +1900,7 @@ K: G
 "C"E2e2e4| "C"e3/2d/  c/(e3/2 e4)|"G"d2d2 d3/2c/  B/(d3/2 |"E7"d8)|
 "A7"^c2c2 B/(A3/2  A3/2)B/ | "A7"^c3/2e/  c/(B3/2  B3/2)A/  B3/2c/ |"D"d2d2"A7"=f2 e/(d3/2 |"D"d6) "D7"d/e3/2 |
 "G"g2G2"Em"G2G2| "Am"_B3/2A/  G/(d3/2  "D7"d3/2)d/ e2|"G"g2 G3/2_B/  "Em"A3/2G/  B3/2A/ |"Am"G3/2A/  _B3/2(d/  "D7"d3/2)d/ e2|
-"G"g2G2"G/F"G2G2| "G/E"g3/2c/  d/(_e3/2  "G/Eb"e3/2)g/ a2| "D7"b3/2a/  g3/2=e/  d3/2_B/  A/(G3/2 |"G"G8)|] 
+"G"g2G2"G/F"G2G2| "G/E"g3/2c/  d/(_e3/2  "G/Eb"e3/2)g/ a2| "D7"b3/2a/  g3/2=e/  d3/2_B/  A/(G3/2 |"G"G8)| 
 
 %%newpage
 X:165
@@ -1924,7 +1924,7 @@ K:D
 d/2e/2 | "D"f3/e/d | d3/e/d | "G"B2 "A"A | "D/F#"F2 A | "G"B/A/ B/c/ d | "A"e2 d/e/ | "D"f2 e | d2 d | 
 "G"B2 B | "A"A3 | "Bm"F3/A/ F/E/ | D2 d | "G"B2 d | "A"A2 d/c/ | "D"d3 | d2 e ||
 "D"f3/e/d | f/e/ f/g/ a | "G"b2 "A"a | "D"f2 e/d/ | "A"e2 a | "Bm"f2 e/d/ | "G"d2 B | B2 "A"A | 
-"D"F2 E | D2 d | "G"B2 d | "D"A2 a | "G"b/a/ g/f/ e/d/ | "A"e2 d/c/ | "D"d3- | d3 |]
+"D"F2 E | D2 d | "G"B2 d | "D"A2 a | "G"b/a/ g/f/ e/d/ | "A"e2 d/c/ | "D"d3- | d3 |
 
 X:168
 T:Orange in Bloom
@@ -1933,7 +1933,7 @@ L:1/4
 K:G
 D | "C"E G E | "G"D G3/A/ | B d B | "D"A3/c/ B/A/ | "Em"G E E | "G"D G3/A/ | "G"B "D"G F | G2 :|
 "D"A | "G"B3/A/ B/c/ | "Em7"d2 B | "D7"A G A | "G"B c "D"d | "Em"e "G"d B | "D7"A G A | "Em"B A G | "C"E2 "D"D | 
-"C"E G E | "G"D G3/A/ | B d B | "D"A3/c/ B/A/ | "Em"G E E | "G"D G3/A/ | B "D"G F | G2 |]
+"C"E G E | "G"D G3/A/ | B d B | "D"A3/c/ B/A/ | "Em"G E E | "G"D G3/A/ | B "D"G F | G2 |
 
 %%newpage
 
@@ -1957,7 +1957,7 @@ K:G
 D |"G"G3/F/G | "D"A D A | "G"B3/A/G | "C"c d e | "G"d3/B/A | "Em"G A B | "Am"A G E | "D"D2 D | 
 "G"G3/F/G | "D"A D A | "G"B3/A/G | "C"c d e | "G"d3/B/A | "C"E/2G3/c | "G"B3/c/"D"A | "G"G2 ||
 G/G/ | "C"c3/d/e | "G"d B G | "C"A G E | "G"D2 B | "C"c3/d/e | "G"d B A | "A7"G3/F/G | "D"A2 D | 
-"G"G3/F/G | "D"A D A | "G"B3/A/G | "C"c d e | "G"d3/B/A | "C"E G c | "G"B3/c/"D"A | "G"G2 |]
+"G"G3/F/G | "D"A D A | "G"B3/A/G | "C"c d e | "G"d3/B/A | "C"E G c | "G"B3/c/"D"A | "G"G2 |
 
 X:171
 %%titlespace -15
@@ -1970,7 +1970,7 @@ K:C
 G | "C"e3/d/c | "E7"B c d | "F"c3/B/A | "C"G E "G"D | "Am"C3/C/C | c d e | "D7"ed3/A/ | "G"d2 G | 
 "C"e3/d/c | "E7"B c d | "F"c3/B/A | "C"G E "G"D | "Am"C3/C/C | c d e | "D7"d A "G7"B | "C"c2 ||
 c/d/ | "E" e3/e/e | d c B | "Am"B A3/E/ | A2 B/c/ | "D7"d3/d/d | c B A | "G"G G3/A/ | B2 G | 
-"C"e3/d/c | "E7"B c d | "F"c3/B/A | "C"G E "G"D | "Am"C3/C/C | c d e | "D7"d A "G7"B | "C"c2 |]
+"C"e3/d/c | "E7"B c d | "F"c3/B/A | "C"G E "G"D | "Am"C3/C/C | c d e | "D7"d A "G7"B | "C"c2 |
 
 X:172
 %%titlespace -15
@@ -1983,7 +1983,7 @@ K:Am
 C/D/ | "Am"E3/E/E | "Dm"FED | "Am"E3/A/B | cAA | "Dm"d3/c/B | "Am"B/c/eA | "B7"cB3/^F/ | "E"B2 C/D/ | 
 "Am"E3/E/E | "Dm"FED | "Am"E3/A/B | cAA | "Dm"d3/c/B | "Am"B/c/eA | "E7"cB3/A/ | "Am"A2 ||
 c/d/ | "A7"e3/e/e | "Dm"fdc | "G"B3/c/d | "C"ecB | "F"A3/B/c | "Dm"dcB | "Am"A3/B/A | "E7"E2 C/D/ | 
-"Am"E3/E/E | "Dm"FED | "Am"E3/A/B | cAA | "Dm"d3/c/B | "Am"B/c/eA | "E7"cB3/A/ | "Am"A2 |]
+"Am"E3/E/E | "Dm"FED | "Am"E3/A/B | cAA | "Dm"d3/c/B | "Am"B/c/eA | "E7"cB3/A/ | "Am"A2 |
 
 %%newpage
 
@@ -2043,7 +2043,7 @@ K: F
 "F"A2c3A|"C7"G2"F"A4|"F"A2c3d|"Am"e2A4|\
 "Dm"f2"Gm"g3g|"Dm"f2e2d2| "Am"ce c2"E7"=B2|"A7"A6|
  "Dm"Ad  A=B  ^cd |"A7"e2A4| "Bb7"fg  fe  de |"A7"^c2A4| 
-"Dm"Ad  AG  AF | "Gm"Bd  BA  BG | "Dm"FA F2"A7"E2|"Dm"D6|] 
+"Dm"Ad  AG  AF | "Gm"Bd  BA  BG | "Dm"FA F2"A7"E2|"Dm"D6| 
 
 X:178
 T: The Thorn Tree Flower
@@ -2056,7 +2056,7 @@ E|"Am"A2B|cBA|"Am"e d/c/  B/A/ |"E7"B2E|\
 B|"Am"c2c|"G"d2d|"C"ee"F"f|"C"e2"G7"d| \
 "Am"c/B/  c/d/ c| "G7"d/c/  d/e/ d| "C"e/d/  e/f/  e/f/ |"G7"g3/2f/ e/d/ |
  "C"c/B/  c/d/  e/c/ | "Dm"d/c/  d/e/  f/d/ |"Am"eea|"E7"^g2b|\
-"Am"aec|"Dm"fed|"E7"c d/c/  B/c/ |"Am"A2|] 
+"Am"aec|"Dm"fed|"E7"c d/c/  B/c/ |"Am"A2| 
 
 %%newpage
 
@@ -2083,7 +2083,7 @@ K: D
 "D"A3/F/D|d2A|"G"B3/2c/d|"D"A/F G//F// E|\
 "Bm"F3/E/D|B,3/2 C//B,// G,|"A"A,3|"A7"A2 F//E3/4 |
 "D"DFA|"C"=c3|"G"B3/2^c/d|"D"A/F G//F//  E/D/ |\
-"D"A,DF| "D"A/(d/ d d/)F/ |"A7"E3/2 F//E//  D/C/ |"D"D2|] 
+"D"A,DF| "D"A/(d/ d d/)F/ |"A7"E3/2 F//E//  D/C/ |"D"D2| 
 
 %%newpage
 X:181
@@ -2118,7 +2118,7 @@ K:G
 d/c/ | "G"BGG DGG | "Em"BGB "G"dcB | "Am"cAA EAA | "D"cAc "D7"edc | 
 "G"BGG DGG | "Em"BGB "G"dcB |"D7"cBc Adc | "G"BGG G2 :: 
 g/a/ | "G"bgg dgg | gbg bag | "D"aff dff | afa agf | 
-"C"egg "G"dgg | "Am"cgg "G"Bgg | "C"cBc "D7"Adc | "G"BGG G2 :|]
+"C"egg "G"dgg | "Am"cgg "G"Bgg | "C"cBc "D7"Adc | "G"BGG G2 :|
 
 %%newpage
 
@@ -2182,7 +2182,7 @@ K:A
 e2 | "A"A2ce aecA | "D"d2f2d2f2 | "A"A2ce aecA | "E7"B2e2B2e2 | 
 "A"A2ce aecA | "D"d2f2d2f2 | "E7"e2gf edcB | "A"A2a2a2 :|
 |: cd | "A"e2c2e2c2 | "D"f2d2f2d2 | "A"e2c2e2c2 | "E7"B2e2e3e | 
-"A"e2c2e2c2 | "D"f2d2f2d2 | "E7"e2gf edcB | "A"A2a2a2 :|]
+"A"e2c2e2c2 | "D"f2d2f2d2 | "E7"e2gf edcB | "A"A2a2a2 :|
 
 %%newpage
 
@@ -2205,7 +2205,7 @@ K:G
 D | "G"G2 G3/A/ | BGBd | g2g3/f/ | gdBG | "C"c2e3/c/ | "G"BdBG | "D7"A2d3/e/ | dcBA | 
 "G"G2 G3/A/ | BGBd | g2g3/f/ | gdBG | "C"c2e3/c/ | "G"BdBG | "D7"A2 "G"G3/F/ | "G"G2 d/e/f/g/ ||
 "D"a2 a3/a/ | afdf | "G"g2b3/a/ | gdBd | g2g3/g/ | "D"f2g3/f/ | "Am"egfe | "D7"dcBA | 
-"G"G2 G3/A/ | BGBd | g2g3/f/ | gdBG | "C"c2e3/c/ | "G"BdBG | "D7"A2 "G"G3/F/ | "G"G3 |]
+"G"G2 G3/A/ | BGBd | g2g3/f/ | gdBG | "C"c2e3/c/ | "G"BdBG | "D7"A2 "G"G3/F/ | "G"G3 |
 
 X:193
 %%musicspace -10
@@ -2215,7 +2215,7 @@ L:1/8
 K:D
 de | "D"f3gf3e | d2f2A3d | "A7"c2e2A2de | "D"f2A2"A7"d2e2 | "D"f3gf3e | d2f2A3d | "A7"c2e2A2fe | "D"d6 :|
 fg | "D"a3fd3f | "Em"e2f2"A7"A2ef | "A7"g3ec3e | "D"d2f2A2fg | "D"a3fd3f | "Em"e2f2"A7"A2ef | g2e2c2e2 | "D"d4 defg |
-"D"afdf afdf | "Em"e2f2"A7"A2ef | gece gece | "D"d2f2A2fg | afdf afdf | "Em"e2f2"A7"A2ef | g2e2c2e2 | "D"d6 |]
+"D"afdf afdf | "Em"e2f2"A7"A2ef | gece gece | "D"d2f2A2fg | afdf afdf | "Em"e2f2"A7"A2ef | g2e2c2e2 | "D"d6 |
 
 X:194
 %%musicspace -10
@@ -2226,7 +2226,7 @@ K:A
 d | "A"c2c cBA | "A"cde "D"f2e | "A"c2c cBA | "E"B3 e2d | 
 "A"c2c cBA | "A"cde "D"f2e | "A"c2c "E"BcB | "A"A3 A2 :|
 |:f/g/ | "A"a2e "D"f2e | "A"a2e "D"f2e | "A"c2c cBA | "E"B3 B2 f/g/ | 
-"A"a2e "D"f2e | "A"a2e "D"f2e | "A"c2c "E"BcB | "A"A3 A2 :|]
+"A"a2e "D"f2e | "A"a2e "D"f2e | "A"c2c "E"BcB | "A"A3 A2 :|
 
 %%newpage
 
@@ -2250,7 +2250,7 @@ F/E/ | "D"DD D/E/F/G/ | AA Af/e/ | dB AF | "A7"BE E/G/F/E/ | "D"DD D/E/F/G/ |
 AA Af | "E7"ed cB |1 "A7"A/G/A/B/ A/G/F/E/ :|2 "A"A/c/e/c/ AE || "A"AA/B/ cc/d/ | 
 ee/c/ A3/A/ | "Bm"BB/c/ dd/e/ | ff/d/ B3/B/ | "A"cA/A/ "D"dA/A/ | "A7"eA/A/ "D"fA/A/ | 
 "G"gf ed | "A7"cB AG | "D"Fd d/c/d/e/ | dA A3/^A/ | "Em"Be e/^d/e/f/ | 
-eB B2 | "D"Ad d/c/d/e/ | fd d/c/d/e/ | "A7"f2 a2 | "D"d3 |]
+eB B2 | "D"Ad d/c/d/e/ | fd d/c/d/e/ | "A7"f2 a2 | "D"d3 |
 
 X:197
 %%titlespace -10
@@ -2260,7 +2260,7 @@ M:2/4
 L:1/8
 K:G
 G/A/ | "G"BB BA/G/ | BB Bg | dB BA/G/ | "D7"BA AG/A/ | "G"BB c/B/A/G/ | Bd g3/a/ | 
-"G"b/a/g/f/ "D7"a/g/f/e/ | "G"dB B :|]|: Bc | "G"dB gB | dd d3/e/ | dB gf/g/ | 
+"G"b/a/g/f/ "D7"a/g/f/e/ | "G"dB B :||: Bc | "G"dB gB | dd d3/e/ | dB gf/g/ | 
 "D7"aA AG/A/ | "G"BB c/B/A/G/ | Bd g3/a/ | "G"b/a/g/f/ "D7"a/g/f/e/ | "G"dd d :|
 
 X:198
@@ -2271,8 +2271,8 @@ M:2/4
 L:1/8
 K:A
 c/d/ | "A"ea ac/d/ | ce ec/B/ | "D"AA "E7"BB | "A"c/B/c/d/ cc/d/ | "A"ea ac/d/ | 
-ce ec/B/ | "D"AA "E7"BB | "A"A2 A :|]|: c/d/ | "A"ea "D"fd | "A"ea "D"fd | "A"e3/c/ Ac | 
-"E7"B/A/B/c/ Bc/d/ | "A"ea "D"fd | "A"ea "D"fd | "A"c/e/c/A/ "E7"B/d/B/G/ | "A"A3 :|]
+ce ec/B/ | "D"AA "E7"BB | "A"A2 A :||: c/d/ | "A"ea "D"fd | "A"ea "D"fd | "A"e3/c/ Ac | 
+"E7"B/A/B/c/ Bc/d/ | "A"ea "D"fd | "A"ea "D"fd | "A"c/e/c/A/ "E7"B/d/B/G/ | "A"A3 :|
 
 %%newpage
 
@@ -2297,7 +2297,7 @@ d c =c | "B7"B A F B- | B A2 F | B A F B- | B4 |\
 "D"d c d "G"B- | "N.C."B A F A | "D"d c d "G"B- | "N.C."B A F A |
 "B7"B A F B- | B A2 F | B A F B- | B4 |\
 "Em"E ^D E F | G F G A | B2 B B- | B c d e | 
-"D"f4 | "F#7/D"f3 e | "Bm/G"d2 B2 | "D"A2 F A | "G"B d B d | "A7"f2 f2 | "D"d4- | d |]
+"D"f4 | "F#7/D"f3 e | "Bm/G"d2 B2 | "D"A2 F A | "G"B d B d | "A7"f2 f2 | "D"d4- | d |
 
 X:201
 T:Oh Johnny!
@@ -2310,7 +2310,7 @@ d2 d2 | "Bm/D"d2 B2 | "Em"G4- | "A7"G A B =c |\
 ^c2 c2 | c2 A2 | "D"z B B c | B A ^G =G | 
 A2 G F | A2 G F | "A7"G F G E- | E4 |\
 "G"B2 B2 | ^A2 B2 | "A7/F#7"c4- | "A7"c A B c | 
-"D"d c d A- | A d c d | "E7"e ^d e B- | B B c B | "A7"c2 B A | c d e2 | "D"d4- | d |]
+"D"d c d A- | A d c d | "E7"e ^d e B- | B B c B | "A7"c2 B A | c d e2 | "D"d4- | d |
 
 %%newpage
 
@@ -2331,9 +2331,9 @@ M:4/4
 L:1/4
 K:G
 G/2G/2 | "G"G B/2B/2 B d/2d/2 | d g g f/2g/2 | "C6"a g e c | "D7"e d d/2c/2B/2A/2 | 
-"G"G B/2B/2 B d/2d/2 | d g g f/2g/2 | "C"ed "D7"d F | "G"A G G :|]
-[K:D][|: A/2A/2 | "D"A d/2d/2 d B | A a/2a/2 a f | "A"g f g e | "D"f/2g/2a/2g/2 f d | 
-"D"A d/2d/2 d B | A a/2a/2 a f | "A"g f g e | "D"d3 :|]
+"G"G B/2B/2 B d/2d/2 | d g g f/2g/2 | "C"ed "D7"d F | "G"A G G :|
+[K:D]|: A/2A/2 | "D"A d/2d/2 d B | A a/2a/2 a f | "A"g f g e | "D"f/2g/2a/2g/2 f d | 
+"D"A d/2d/2 d B | A a/2a/2 a f | "A"g f g e | "D"d3 :|
 
 X:204
 %%musicspace -10
@@ -2343,9 +2343,9 @@ M:4/4
 L:1/4
 K:A
 A/2B/2 | "A"c2 c3/2B/2 | "D"A F F3/2F/2 | "A"E A A/2G/2A/2B/2 | "E7"c B B2 | 
-"A"c2 c3/2B/2 | "D"A F F3/2F/2 | "E7"E e e3/2d/2 | "A"c A A :|]
-[|: A/2B/2 | "A"c A "E7"B A/2B/2 | "A"c A "E7"B A/2B/2 | "A"c e e3/2d/2 | "A"c B "E7"B2 | 
-"A"c A "E7"B A/2B/2 | "A"c A "E7"B A/2B/2 | "A"c e "E7"e3/2d/2 | "A"c A A :|]
+"A"c2 c3/2B/2 | "D"A F F3/2F/2 | "E7"E e e3/2d/2 | "A"c A A :|
+|: A/2B/2 | "A"c A "E7"B A/2B/2 | "A"c A "E7"B A/2B/2 | "A"c e e3/2d/2 | "A"c B "E7"B2 | 
+"A"c A "E7"B A/2B/2 | "A"c A "E7"B A/2B/2 | "A"c e "E7"e3/2d/2 | "A"c A A :|
 
 X:205
 %%musicspace -10
@@ -2356,9 +2356,9 @@ L:1/4
 K:D
 %%stretchlast 1
 D/2E/2 | "D"F A A G/2F/2 | "G"G B B2 | "D"F A A G/2F/2 | "A7"G E E2 | 
-"D"F A A G/2F/2 | "G"G B B2 | "D"F2 "A7"E2 | "D"D3 :|]
-[|: B/2c/2 | "D"d c B A | "G"B/2c/2d "D"A2 | d c B A | "G"B/2c/2d "A7"e2 | 
-"D"d c B A | "G"B/2c/2d "A7"A G | "D"F2 "A7"E2 | "D"D3 :|]
+"D"F A A G/2F/2 | "G"G B B2 | "D"F2 "A7"E2 | "D"D3 :|
+|: B/2c/2 | "D"d c B A | "G"B/2c/2d "D"A2 | d c B A | "G"B/2c/2d "A7"e2 | 
+"D"d c B A | "G"B/2c/2d "A7"A G | "D"F2 "A7"E2 | "D"D3 :|
 
 %%newpage
 
@@ -2385,7 +2385,7 @@ a3 b a2 f2 | "A"e3 f e2 ef | "E7" gfed c2 B2 | "A"A8 ||
 "A"E2 AA E2 AA | "D"F2 AA "A" E2 E2 | E2 AA E2 AA | "E7"B2 e2 e4 | 
 BBee BeBB | eBBe e2 ef | gfeg fedB | "A"ABAF E2 E2 | 
 "A"E2 AA E2 AA | "D"F2 AA "A" E2 E2 | E2 AA E2 AA | "D"F6 a2 | 
-a3 b a2 f2 | "A"e3 f e2 f2 | "E7"gfed c2 B2 | "A"A8 |]
+a3 b a2 f2 | "A"e3 f e2 f2 | "E7"gfed c2 B2 | "A"A8 |
 
 X:208
 %%musicspace -10
@@ -2394,9 +2394,9 @@ M:4/4
 L:1/8
 K:D
 "D"A2 A2 AdBA | F2 FF D2 D2 | "A7"E2 A2 E2 A2 | E2 A2 E2 A2 | 
-"D"A2 A2 AdBA | F2 FF D2 D2 | "A7"E2 A2 E3 E | "D"F3 E D4 :|]
-[|:"D"d2 e2 fefe | "G"d2 e2 gege | "D" d2 e2 f2 df | "A7"e2 A2 ABcA | 
-"D"d2 e2 fefe | "G"d2 e2 g3 a | "Em"b2 a2 "A7"g2 e2 | "D"d8 :|]
+"D"A2 A2 AdBA | F2 FF D2 D2 | "A7"E2 A2 E3 E | "D"F3 E D4 :|
+|:"D"d2 e2 fefe | "G"d2 e2 gege | "D" d2 e2 f2 df | "A7"e2 A2 ABcA | 
+"D"d2 e2 fefe | "G"d2 e2 g3 a | "Em"b2 a2 "A7"g2 e2 | "D"d8 :|
 
 %%newpage
 %%scale 0.791
@@ -2424,7 +2424,7 @@ K:Bb
 "Bb"d2f | "F7"c2f | "Bb"BzB | Bzz | F2G | "F7"E2F | "Bb"D3 | "F7"FGA | 
 "Bb"B3 | "C7"BAG | "F7"F2E | C3 | F2E | C3 | "Bb"G2F | "F7"FGA ||
 "Bb"d2f | "F7"c2f | "Bb"BzB | Bzz | B3 | "D7"B2A | "Eb"G3 | "F7"FGA | 
-"Bb"B3 | "Eb"A2G | "Bb"F2B | DFB | d2d | "F7"edc | "Bb"B3- | B z z |]
+"Bb"B3 | "Eb"A2G | "Bb"F2B | DFB | d2d | "F7"edc | "Bb"B3- | B z z |
 
 X:211
 %%titlespace -50
@@ -2437,7 +2437,7 @@ K:Bb
 B3 | D3 | F z ^F | G z =F | B3 | d3 | c3- | c2 F | c3 | A3 | F3 | E3 | DFA | d^c=c | BAB | cAF ||
 B3 | D3 | F z ^F | G z =F | D3 | D3 | E3- | EEF | GFE | GFE | DGB | DDC | B3 | A3 | B3- | Bzz :|
 B2d | A2d | GzG | Gzz | F2G | E2F | D3 | FGE | D3 | GFE | F2E | C3 | F2E | C3 | G2F | FGA ||
-B2d | A2d | GzG | Gzz | G3 | G2F | E3 | FGA | B3 | A2G | F2B | DFB | B2B | cBA | B3- | Bzz |]
+B2d | A2d | GzG | Gzz | G3 | G2F | E3 | FGA | B3 | A2G | F2B | DFB | B2B | cBA | B3- | Bzz |
 
 %%newpage
 %%scale 0.8
@@ -2462,7 +2462,7 @@ D | "G"G2FG | "D"A2GA | "G"B2cB | "C"E2AA | "G"G2GG | "D"F2EF | "G"G4- | G2DD |
 "G"e2BA | G2FG | "D7"AGFE | D2Bc | "G"d2BA | "Em"G2FG | "A7"A4- | "D7"A2 DD | 
 "G"Gzzz | "D"Azzz | "G"BBcB | "C"E2AA | "G"G2G2 | "D7"F2EF | "G"D4- | G2DD ||
 "G"G2DD | EDD2 | B,DD2 | B,DD2 | G2DD | EDD2 | B,DD2 | B,DD2 | 
-"G"Gzzz | "D"Azzz | "G"BBcB | "C"E2AA | "G"G2G2 | "D7"F2EF | "G"D4- | G3 |]
+"G"Gzzz | "D"Azzz | "G"BBcB | "C"E2AA | "G"G2G2 | "D7"F2EF | "G"D4- | G3 |
 
 X:214
 T:Swedish Masquerade
@@ -2471,7 +2471,7 @@ L:1/8
 K:G
 DB,D | "G"G2 G3/G/G2 "Am"Ac | "G"B2B3/B/B2 "C"ce | "G"edBd "D7"dcAF |1 "G"G2 G3/G/ G :|2 "G"G2G3/G/G2 ||
 [M:3/4]|: Bc | "G"d2 B2 ge | d2 B2 ed | "D7"c2 A2 F2 | "G"GF GA Bc | "G"d2 B2 ge | d2 B2 ed | "D7"c2 A2 F2 | "G"G4 :|
-[M:2/4]|: B3/c/ | "G"dB ge | dB GB | "D7"dc Ac | "G"ed B3/c/ | dB ge | dB GB | "D7"dc AF | "G"G2 :|]
+[M:2/4]|: B3/c/ | "G"dB ge | dB GB | "D7"dc Ac | "G"ed B3/c/ | dB ge | dB GB | "D7"dc AF | "G"G2 :|
 
 %%newpage
 
@@ -2493,7 +2493,7 @@ K:G
 "(D7)"ddd | "G"D4- | D D/D/ E G | B4- | Bddd | D4- | D D/D/ E G | "D"A4- | Addd | 
 "G"D4- | "G7/F"DG/G/AB | "C/E"BA2G | "Cm/Eb"C2E2 | "G"D2 "Em"d2 | "A7"B/G/A/_B/ "D7"A/G/E | "G"G4- | G ||
 "(G)"BAG | "C7"_B4- | B d _B/A/G | "G"A =B3- | BBAG | "A7"A4- | AB^ce | "D"d2-"Am"d2- | 
-"D"dDEG | "G"B4- | "G7/F"BBAG | "C/E"C4- | "Cm/Eb"CDEG | "G"D2 "Em"d2 | "A7"B/G/A/_B/ "D7"A/G/E | "G"G4- | G |]
+"D"dDEG | "G"B4- | "G7/F"BBAG | "C/E"C4- | "Cm/Eb"CDEG | "G"D2 "Em"d2 | "A7"B/G/A/_B/ "D7"A/G/E | "G"G4- | G |
 
 X:217
 T:Cherkessia Kfula
@@ -2505,7 +2505,7 @@ K:G
 [2"D"[G2B2][F2A2]|"G"[G4D4]|"G7"[G4D4]||
 |:"C"[ce][c2e2][Bd]|[Ac][Bd][c2e2]|"G"[Bd][B2d2][Ac]|[GB][Ac][B2d2]|
 "D"[Ac][A2c2][GB]|[1"D"[F2A2][GB][Ac]|"G"[B4d4]|"G7"[B4d4]:|\
-[2"D7"[F2A2][GB][FA]|"G"[D4G4]|[D4G4]|]
+[2"D7"[F2A2][GB][FA]|"G"[D4G4]|[D4G4]|
 
 %%newpage
 
@@ -2556,7 +2556,7 @@ d2e2f2 | "G"g4 d4 | "G"edBd- "D7"dBA2 | "G"G8 | D8 |  "Bb"=F4 _B4 | d=fgf- fdc2 
 "G"g4 d4 | edBd- dBA2 | "C"G8 | E6 _E2 | "G"D4 "E7"d4 | "A7"BGA_B- "D7"BGA2 | "G"G8- | "G7"G2G2F2=F2 ||
 "C"EGAC EGEG | ACEG EGAc | "Am"e2ee- edc2 | A8 | "E"^GB^cE GBGB | 
 ^cE^GB GBce | "C#m"^g2gg- gfe2 | ^c8 | "E"^g2gg- gfe2 | "A7"=g2gg- gfe2 | 
-"D"f2ff- fede | "D7"fafe defa | "G"bage- edB2 | "A7"edBA- "D7"AGE2 | " G       C"G8- | "G"G2 |]
+"D"f2ff- fede | "D7"fafe defa | "G"bage- edB2 | "A7"edBA- "D7"AGE2 | " G       C"G8- | "G"G2 |
 
 X:222
 %%composerspace -12
@@ -2574,7 +2574,7 @@ K:Dm
 "Dm"zA2F A4 | zA2FA4 | zA2F ^GA3 | F4 D4 | 
 "Dm"zA2F A4 | zA2FA4 | zA2F ^GA3 | "C"G4 "Am"C4 | 
 "Dm"zA2F A4 | zA2FA4 | zA2F ^GA3 | F4 D4 | 
-"Bb"B,DF2 "G7"=B,DF2 | "Am"^GA3 "Dm"D4 | "Bb"DFBd "C7"^GA3 | "F"F8 |]
+"Bb"B,DF2 "G7"=B,DF2 | "Am"^GA3 "Dm"D4 | "Bb"DFBd "C7"^GA3 | "F"F8 |
 
 %%newpage
 %%scale 0.8
@@ -2599,7 +2599,7 @@ K:Dmaj
 DE ED|:"D"F2 DE ED|"D/F#"A2 DE ED|"G"cd cB "A"GB|"D"AF DE ED|
 "D"F2 DE ED|"D/F#"A2 DE ED|"G"cd cB "A"GB|1 "D"A2 DE ED:|2 "D"A4 D2||
 |:"G"AB BA Bd|B2A2G2|"D"GA AG Ad|"Bm"A2G2F2|
-"Em"FG GF GB|"A"G2F2E2|1"D"DC DE DE|FE FG "A"FG:|2"D"DE DE FG|"A"E4|]
+"Em"FG GF GB|"A"G2F2E2|1"D"DC DE DE|FE FG "A"FG:|2"D"DE DE FG|"A"E4|
 
 X:225
 T: The Road To Corrandulla
@@ -2640,7 +2640,7 @@ M:4/4
 M:6/4
 "Em"BAGB"D"AE EAEFAB |\
 M:4/4
-z c2 c "E"B3c| BABc dcBA| c2c2 B3c| "E"BAGB "A"A4 |]
+z c2 c "E"B3c| BABc dcBA| c2c2 B3c| "E"BAGB "A"A4 |
 
 X:228
 T:Nina
@@ -2650,7 +2650,7 @@ K:Ador
 "Am"ec Bc ec |Bc A4 |"Bm"Bc BG EG |"Em"Bc BG (3EGB |
 "Am"ec Bc ec | Bc A4 |"Dm"zA de- ec |"Em"B6 :|
 |:"Am"AB ce- ec |Bc ge- e2 |"Em"Bc dg- gf |ef gB- B2 |
-"Am"AB ce- e2 |Bc ge- ec |"Em"Bc dg- gf |1ed ef B2 :|2 e6 |]
+"Am"AB ce- e2 |Bc ge- ec |"Em"Bc dg- gf |1ed ef B2 :|2 e6 |
 
 %%newpage
 X:229
@@ -2792,7 +2792,7 @@ M: 6/8
 L: 1/8
 K: Dm
 d|"Dm"d2d "A7"^c3/2B/c |"Dm"d2dA2d|"Dm""Bb"d2d "A7"^c3/2B/c |"Dm"d3A2B|
- "Gm"B3/2d/c  "C7"B3/2c/B | "F"A3/2B/A  "C7""Gm"G3/2F/E | "F""Dm"F3/2G/A  "Gm"G3/2A/F |"A7"E3"Dm"D3|] 
+ "Gm"B3/2d/c  "C7"B3/2c/B | "F"A3/2B/A  "C7""Gm"G3/2F/E | "F""Dm"F3/2G/A  "Gm"G3/2A/F |"A7"E3"Dm"D3| 
 
 X:242
 T: Picking Of Sticks
@@ -2800,7 +2800,7 @@ M: 6/8
 L: 1/8
 K: G
 G| "G"B3/2c/d  d3/2c/d |"Am"c2AA2A| "Am"A3/2B/c  "D7"c3/2d/c |"G"B2GG2G|
- "G"B3/2c/d  d3/2c/d |"Am"c2AA2A| "Am"A3/2B/c  "D7"c3/2d/c |"G"B2GG2 |]
+ "G"B3/2c/d  d3/2c/d |"Am"c2AA2A| "Am"A3/2B/c  "D7"c3/2d/c |"G"B2GG2 |
 
 %%newpage
 
@@ -2822,7 +2822,7 @@ K: A
 "A"a2e2|c2BA|"D"f2A2|"E"G2FE|"A"Acec|"B7"B^dfa|"E"ge"B7"f^d|"E"e2E2|
 "A"a2e2|c2BA|"D"f2A2|"E"G2FE|"D"FAdF|"E"EGBd|"A"cB"E7"AG|"A"A2A,2|| 
 "A"ceag|"D"f2ed|"A"ceag|"D"f2ed|"A"ceag|"D"gf"A"fe|"E"ed"A"dc|"E7"c2B2|
-"Bm"dcBA| "E"G/A/ BE2|"Bm"dcBA| "B7"f/g/ a"E"g2|"D"fdaf|"A"ecBA|"A"E2"E7"G2|"A"A4|] 
+"Bm"dcBA| "E"G/A/ BE2|"Bm"dcBA| "B7"f/g/ a"E"g2|"D"fdaf|"A"ecBA|"A"E2"E7"G2|"A"A4| 
 
 X:245
 T: The Hole In The Wall
@@ -2832,7 +2832,7 @@ L: 1/4
 K: Bb
 F|: "Bb"d3/2e/ d/e/ f"F"cf|"Gm"B3/2c/ B/c/ d"Dm"Ad|"Eb"G3/2A/ G/A/ B"Bb"Fd|"F7"B3A"Bb"B2:| 
 "Gm"b3/2a/ g/a/ b"Cm"ag|"D"^f3/2g/ f/g/ a"D7"da|"Gm"b3/2a/ g/a/ b"Cm"ag|"D7"g3^f"Gm"g2|
-"Eb"G3/2A/ G/A/ B "F"A/B/ c|"Gm"B3/2c/ B/c/ d "F"c/d/ e|"Bb"d3/2e/ d/e/ f"F"Ff|"F7"d3 c/d/ "Bb"B2|] 
+"Eb"G3/2A/ G/A/ B "F"A/B/ c|"Gm"B3/2c/ B/c/ d "F"c/d/ e|"Bb"d3/2e/ d/e/ f"F"Ff|"F7"d3 c/d/ "Bb"B2| 
 
 X:246
 T:The Hole In The Wall
@@ -2843,7 +2843,7 @@ L:1/4
 K:Gmaj
 D|: "G"B3/2c/2 B/2c/2 d"D"Ad|"Em"G3/2A/2 G/2A/2 B"Bm"FB|"C"E3/2F/2 E/2F/2 G"G"DB|"D7"G3F"G"G2:| 
 "Em"g3/2f/2 e/2f/2 g"Am"fe|"B"^d3/2e/2 d/2e/2 f"B7"Bf|"Em"g3/2f/2 e/2f/2 g"Am"fe|"B7"e3^d"Em"e2|
-"C"E3/2F/2 E/2F/2 G "D"F/2G/2 A|"Em"G3/2A/2 G/2A/2 B "D"A/2B/2 c|"G"B3/2c/2 B/2c/2 d"D"Dd|"D7"B3 A/2B/2 "G"G2|] 
+"C"E3/2F/2 E/2F/2 G "D"F/2G/2 A|"Em"G3/2A/2 G/2A/2 B "D"A/2B/2 c|"G"B3/2c/2 B/2c/2 d"D"Dd|"D7"B3 A/2B/2 "G"G2| 
 
 %%newpage
 
@@ -2868,7 +2868,7 @@ K:Am
 |: cd | "Am"edcB ABcd | e4 c4 | "G"dcBA GABc | d4 B4 | 
 "Am"edcB ABcd | e4 c4 | "G"dcBA "E"^GABd | "Am"c2A2 A2 ::
 cd | "C"e2e2 e2cd | e2e2 e2Bc | "G"d2d2 d2Bc | d2d2 d2cd | 
-"Am"e2e2 e2cd | "(Dm)"e2e2 e2Bc | "G"dcBA "E"^GABd |1 "Am"c2A2 A2 :|2 "Am"c2A2 A4 |]
+"Am"e2e2 e2cd | "(Dm)"e2e2 e2Bc | "G"dcBA "E"^GABd |1 "Am"c2A2 A2 :|2 "Am"c2A2 A4 |
 
 X:249
 %%titlespace -15
