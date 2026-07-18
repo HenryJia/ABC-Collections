@@ -18,7 +18,7 @@ jobs:
       run: |
         sudo apt-get update
         # Install ABC tools for conversion to PS
-        sudo apt-get install -y abc2ps
+        sudo apt-get install -y abcm2ps
         
     - name: Convert ABC files to PS
       run: |
@@ -38,7 +38,7 @@ jobs:
             echo "Base name: $base_name"
             
             # Convert ABC directly to PS
-            if abc2ps "$abc_file" > "${base_name}.ps"; then
+            if abcm2ps "$abc_file" > "${base_name}.ps"; then
               echo "Successfully converted $abc_file to PS format"
               
               # Convert PS to PDF (since we want PDFs in the final output)
