@@ -29,7 +29,7 @@ jobs:
         total_files=$(find assets/abc -name "*.abc" | wc -l)
         echo "Found $total_files ABC files to process"
         
-        # Convert each ABC file to PS
+        # Convert each ABC file to PS with error ignoring
         for abc_file in assets/abc/*.abc; do
           if [ -f "$abc_file" ]; then
             echo "Processing $abc_file..."
@@ -37,9 +37,11 @@ jobs:
             base_name=$(basename "$abc_file" .abc)
             echo "Base name: $base_name"
             
-            # Convert ABC directly to PS
-            if abcm2ps "$abc_file" > "${base_name}.ps"; then
-              echo "Successfully converted $abc_file to PS format"
+            abcm2ps "$abc_file" -O "$(base_name).ps"
+
+            # Check the PS file was produced
+            if [ -f "${base_name}.ps" ]; then
+              echo "Successfully converted $abc_file to PS format (errors ignored)"
               
               # Convert PS to PDF (since we want PDFs in the final output)
               if ps2pdf "${base_name}.ps" "assets/pdf/${base_name}.pdf"; then
@@ -61,5 +63,5 @@ jobs:
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
         git add assets/pdf/
-        git commit -m "Build PDFs from ABC files using PS" || echo "No changes to commit"
+        git commit -m "Build PDFs from ABC files using PS (errors ignored)" || echo "No changes to commit"
         git push origin main || echo "No changes to push"
