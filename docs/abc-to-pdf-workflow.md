@@ -10,20 +10,20 @@ The workflow automatically converts ABC files stored in `assets/abc/` directory 
 
 1. **Checkout Repository**: Clones the repository to the runner
 2. **Install Dependencies**: Installs required tools:
-   - `lilypond`: Music engraving software
-   - `texlive`: LaTeX packages for document formatting
+   - `abcm2ps`: ABC to PostScript converter
+   - `ghostscript`: PostScript processing tools
 3. **Convert ABC to PDF**:
    - For each `.abc` file in `assets/abc/`:
-     - Converts the ABC file to LilyPond format using `abc2ly`
-     - Generates a PDF using `lilypond`
+     - Converts the ABC file to PostScript format using `abcm2ps`
+     - Converts the PostScript file to PDF format using `ps2pdf`
      - Moves the generated PDF to `assets/pdf/`
 4. **Commit and Push**: Commits any new or updated PDF files
 
 ## Tools Used
 
-- **abc2ly**: Converts ABC notation to LilyPond format
-- **LilyPond**: Music engraving software that generates high-quality musical scores
-- **TeX Live**: LaTeX packages for document formatting
+- **abcm2ps**: Converts ABC notation directly to PostScript format
+- **Ghostscript**: PostScript processing tools for PDF conversion
+- **ps2pdf**: Converts PostScript files to PDF format
 
 ## Directory Structure
 
@@ -39,11 +39,11 @@ To test locally:
 
 ```bash
 # Install required tools
-sudo apt-get install lilypond texlive-latex-base texlive-latex-recommended texlive-fonts-recommended
+sudo apt-get install abcm2ps ghostscript
 
 # Test conversion of a single file
-abc2ly assets/abc/WarwickFolk-Treble.abc > test-output.ly
-lilypond test-output.ly
+abcm2ps assets/abc/WarwickFolk-Treble.abc -O test-output.ps
+ps2pdf test-output.ps assets/pdf/test-output.pdf
 ```
 
 ## Troubleshooting
@@ -52,3 +52,4 @@ If the workflow fails:
 1. Check that ABC files are valid and properly formatted
 2. Verify that required tools are available in the environment
 3. Ensure sufficient disk space for PDF generation
+4. Note: The workflow ignores conversion errors to prevent build failures from malformed ABC files
