@@ -1,4 +1,4 @@
-name: Build ABC to PDF
+name: Build ABC to PS
 
 on:
   push:
@@ -17,19 +17,19 @@ jobs:
     - name: Install ABC tools
       run: |
         sudo apt-get update
-        # Install ABC tools for conversion
-        sudo apt-get install -y lilypond texlive-latex-base texlive-latex-recommended texlive-fonts-recommended
+        # Install ABC tools for conversion to PS
+        sudo apt-get install -y abc2ps
         
-    - name: Convert ABC files to PDF
+    - name: Convert ABC files to PS
       run: |
         mkdir -p assets/pdf
-        echo "Starting ABC to PDF conversion..."
+        echo "Starting ABC to PS conversion..."
         
         # Count total ABC files
         total_files=$(find assets/abc -name "*.abc" | wc -l)
         echo "Found $total_files ABC files to process"
         
-        # Convert each ABC file to PDF using LilyPond
+        # Convert each ABC file to PS
         for abc_file in assets/abc/*.abc; do
           if [ -f "$abc_file" ]; then
             echo "Processing $abc_file..."
@@ -37,31 +37,23 @@ jobs:
             base_name=$(basename "$abc_file" .abc)
             echo "Base name: $base_name"
             
-            # Convert ABC to LilyPond format
-            if abc2ly "$abc_file" > "${base_name}.ly"; then
-              echo "Successfully converted $abc_file to LilyPond format"
+            # Convert ABC directly to PS
+            if abc2ps "$abc_file" > "${base_name}.ps"; then
+              echo "Successfully converted $abc_file to PS format"
               
-              # Generate PDF with LilyPond
-              if lilypond "${base_name}.ly"; then
+              # Convert PS to PDF (since we want PDFs in the final output)
+              if ps2pdf "${base_name}.ps" "assets/pdf/${base_name}.pdf"; then
                 echo "Successfully generated PDF for $abc_file"
-                
-                # Move generated PDF to assets/pdf directory if it exists
-                if [ -f "${base_name}.pdf" ]; then
-                  mv "${base_name}.pdf" assets/pdf/
-                  echo "Moved PDF to assets/pdf/"
-                else
-                  echo "No PDF was generated for $abc_file"
-                fi
               else
-                echo "Error: Failed to generate PDF with LilyPond for $abc_file"
+                echo "Error: Failed to convert PS to PDF for $abc_file"
               fi
             else
-              echo "Error: Failed to convert $abc_file to LilyPond format"
+              echo "Error: Failed to convert $abc_file to PS format"
             fi
           fi
         done
         
-        echo "ABC to PDF conversion complete"
+        echo "ABC to PS conversion complete"
         
     - name: Commit and push changes
       if: success()
@@ -69,5 +61,5 @@ jobs:
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
         git add assets/pdf/
-        git commit -m "Build PDFs from ABC files" || echo "No changes to commit"
+        git commit -m "Build PDFs from ABC files using PS" || echo "No changes to commit"
         git push origin main || echo "No changes to push"
