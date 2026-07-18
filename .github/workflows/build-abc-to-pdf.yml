@@ -36,8 +36,9 @@ jobs:
             # Get the base name without extension
             base_name=$(basename "$abc_file" .abc)
             echo "Base name: $base_name"
-            
-            abcm2ps "$abc_file" -O "${base_name}.ps"
+
+            # abcm2ps will still output a ps file even if there are errors, so we ignore errors here
+            abcm2ps "$abc_file" -O "${base_name}.ps" || true
 
             # Check the PS file was produced
             if [ -f "${base_name}.ps" ]; then
