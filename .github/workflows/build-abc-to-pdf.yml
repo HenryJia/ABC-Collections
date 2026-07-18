@@ -18,7 +18,7 @@ jobs:
       run: |
         sudo apt-get update
         # Install ABC tools for conversion to PS
-        sudo apt-get install -y abcm2ps
+        sudo apt-get install -y abcm2ps ghostscript
         
     - name: Convert ABC files to PS
       run: |
