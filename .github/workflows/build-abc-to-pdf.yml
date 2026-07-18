@@ -37,7 +37,7 @@ jobs:
             base_name=$(basename "$abc_file" .abc)
             echo "Base name: $base_name"
             
-            abcm2ps "$abc_file" -O "$(base_name).ps"
+            abcm2ps "$abc_file" -O "${base_name}.ps"
 
             # Check the PS file was produced
             if [ -f "${base_name}.ps" ]; then
