@@ -9,7 +9,7 @@ This page displays all the sheet music from my ABC collection, converted to PDF 
 
 ## Available PDFs
 
-{% assign pdf_files = site.static_files | where: 'path', 'assets/pdf/' %}
+{% assign pdf_files = site.static_files | where: 'path', 'assets/pdf/' | where: 'name', '.pdf' %}
 {% if pdf_files.size > 0 %}
   {% for pdf_file in pdf_files %}
     {% assign filename = pdf_file.name | split: '.' | first %}
