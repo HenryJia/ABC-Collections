@@ -9,9 +9,9 @@ This page displays all the sheet music from my ABC collection, converted to PDF 
 
 ## Available PDFs
 
-{% assign pdf_files = site.static_files | where: 'path', 'assets/pdf/' | where: 'name', '.pdf' %}
-{% if pdf_files.size > 0 %}
-  {% for pdf_file in pdf_files %}
+{% assign pdf_files = site.static_files | where: 'path', 'assets/pdf/' %}
+{% for pdf_file in pdf_files %}
+  {% if pdf_file.name contains '.pdf' %}
     {% assign filename = pdf_file.name | split: '.' | first %}
     <div class="card mb-4">
       <div class="card-header">
@@ -28,8 +28,10 @@ This page displays all the sheet music from my ABC collection, converted to PDF 
         </div>
       </div>
     </div>
-  {% endfor %}
-{% else %}
+  {% endif %}
+{% endfor %}
+
+{% if pdf_files.size == 0 or forloop.none %}
   <div class="alert alert-warning">
     <p>No PDF files found in the collection. Please check back later as the conversion process may still be running.</p>
   </div>
