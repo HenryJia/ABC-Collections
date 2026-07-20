@@ -13,10 +13,9 @@ This page displays all the sheet music from my ABC collection, converted to PDF 
 {% if pdf_file.path contains '/assets/pdf/' %}
 {% assign filename = pdf_file.name %}
 {% assign filepath = pdf_file.path | relative_url%}
-<code>{{ filepath }}</code>
 <div class="card mb-4">
   <div class="card-header">
-    <h3>{{ filename }}</h3>
+    <h3>{{ filepath }}</h3>
   </div>
   <div class="card-body">
     <p class="card-text">
@@ -52,7 +51,8 @@ The following ABC files are available in the repository:
 
 {% for abc_file in site.static_files %}
 {% if abc_file.path contains 'assets/abc/' %}
-  <code>{{ abc_file.path | relative_url }}</code>
+{% assign filepath = abc_file.path | relative_url%}
+<a href="{{ filepath }}" class="btn btn-primary" target="_blank">{{ filepath }}</a>
 {% endif %}
 {% endfor %}
 
