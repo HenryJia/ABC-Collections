@@ -22,7 +22,7 @@ This page displays all the sheet music from my ABC collection, converted to PDF 
     </p>
     <div class="pdf-container" style="height: 600px; border: 1px solid #ccc; overflow: auto;">
       <object data="{{ pdf_file.path }}" type="application/pdf" width="100%" height="100%">
-        <p>Your browser does not support viewing PDFs. <a href="{{ pdf_file.path | relative_url }}" target="_blank">Download the PDF</a> instead.</p>
+        <p>Your browser does not support viewing PDFs. <a href="{{ pdf_file.path }}" target="_blank">Download the PDF</a> instead.</p>
       </object>
     </div>
   </div>
