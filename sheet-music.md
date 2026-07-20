@@ -10,7 +10,7 @@ This page displays all the sheet music from my ABC collection, converted to PDF 
 ## Available PDFs
 
 {% for pdf_file in site.static_files %}
-  {% if pdf_file.path contains '/ABC-Collections/assets/pdf/' %}
+  {% if pdf_file.path contains '/assets/pdf/' %}
     {% assign filename = pdf_file.name %}
     <div class="card mb-4">
       <div class="card-header">
@@ -29,6 +29,7 @@ This page displays all the sheet music from my ABC collection, converted to PDF 
     </div>
   {% endif %}
 {% endfor %}
+
 ## About This Collection
 
 This collection contains various musical pieces converted from ABC notation to PDF format. The conversion is done automatically through a GitHub Actions workflow that processes the ABC files in `assets/abc/` and generates corresponding PDFs in `assets/pdf/`.
