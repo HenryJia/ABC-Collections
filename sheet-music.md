@@ -10,7 +10,7 @@ This page displays all the sheet music from my ABC collection, converted to PDF 
 ## Available PDFs
 
 {% for pdf_file in site.static_files %}
-  {% if pdf_file.path contains 'assets/pdf/' %}
+  {% if pdf_file.path contains '/ABC-Collections/assets/pdf/' %}
     {% assign filename = pdf_file.name %}
     <div class="card mb-4">
       <div class="card-header">
@@ -18,10 +18,10 @@ This page displays all the sheet music from my ABC collection, converted to PDF 
       </div>
       <div class="card-body">
         <p class="card-text">
-          <a href="{{ pdf_file.path | relative_url }}" class="btn btn-primary" target="_blank">Download PDF</a>
+          <a href="{{ pdf_file.path }}" class="btn btn-primary" target="_blank">Download PDF</a>
         </p>
         <div class="pdf-container" style="height: 600px; border: 1px solid #ccc; overflow: auto;">
-          <object data="{{ pdf_file.path | relative_url }}" type="application/pdf" width="100%" height="100%">
+          <object data="{{ pdf_file.path }}" type="application/pdf" width="100%" height="100%">
             <p>Your browser does not support viewing PDFs. <a href="{{ pdf_file.path | relative_url }}" target="_blank">Download the PDF</a> instead.</p>
           </object>
         </div>
